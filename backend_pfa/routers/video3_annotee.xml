@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4097283</id>
+      <size>314</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-06-10 13:11:34.519857+00:00</created>
+      <updated>2026-06-10 14:43:11.049765+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>313</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4095459</id>
+          <start>0</start>
+          <stop>313</stop>
+          <url>https://app.cvat.ai/api/jobs/4097283/dataset/export/api/jobs/4097283</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>flore</username>
+        <email>simporeflore763@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>flore</username>
+        <email>simporeflore763@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>plate</name>
+          <color>#a0a0a0</color>
+          <type>any</type>
+          <attributes>
+            <attribute>
+              <name>immatriculation</name>
+              <mutable>False</mutable>
+              <input_type>text</input_type>
+              <default_value></default_value>
+              <values></values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-06-10 14:48:19.633027+00:00</dumped>
+    <original_size>
+      <width>2560</width>
+      <height>1440</height>
+    </original_size>
+  </meta>
+  <track id="0" label="plate" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1051.60" ytl="854.00" xbr="1235.71" ybr="897.80" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="1046.79" ytl="852.15" xbr="1230.90" ybr="895.95" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="1041.97" ytl="850.30" xbr="1226.08" ybr="894.10" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="1037.16" ytl="848.45" xbr="1221.27" ybr="892.25" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="1032.35" ytl="846.60" xbr="1216.46" ybr="890.40" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="1027.54" ytl="844.75" xbr="1211.65" ybr="888.55" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="1022.73" ytl="842.90" xbr="1206.84" ybr="886.70" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="1017.92" ytl="841.05" xbr="1202.03" ybr="884.85" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="1013.10" ytl="839.19" xbr="1197.21" ybr="882.99" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="1008.29" ytl="837.34" xbr="1192.40" ybr="881.14" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="1003.48" ytl="835.49" xbr="1187.59" ybr="879.29" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="996.80" ytl="835.84" xbr="1180.91" ybr="879.64" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="990.12" ytl="836.20" xbr="1174.23" ybr="880.00" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="983.44" ytl="836.55" xbr="1167.55" ybr="880.35" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="976.76" ytl="836.90" xbr="1160.87" ybr="880.70" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="970.08" ytl="837.25" xbr="1154.19" ybr="881.05" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="963.40" ytl="837.60" xbr="1147.51" ybr="881.40" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="956.72" ytl="837.95" xbr="1140.83" ybr="881.75" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="950.04" ytl="838.31" xbr="1134.15" ybr="882.11" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="943.36" ytl="838.66" xbr="1127.47" ybr="882.46" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="936.68" ytl="839.01" xbr="1120.79" ybr="882.81" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="922.19" ytl="839.91" xbr="1110.15" ybr="885.07" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="907.70" ytl="840.82" xbr="1099.51" ybr="887.33" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="0" xtl="893.21" ytl="841.73" xbr="1088.87" ybr="889.59" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="0" xtl="878.73" ytl="842.63" xbr="1078.23" ybr="891.85" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="864.24" ytl="843.54" xbr="1067.60" ybr="894.10" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="0" xtl="849.75" ytl="844.44" xbr="1056.96" ybr="896.36" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="0" xtl="835.26" ytl="845.35" xbr="1046.32" ybr="898.62" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="0" xtl="820.77" ytl="846.25" xbr="1035.68" ybr="900.88" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="806.28" ytl="847.16" xbr="1025.04" ybr="903.14" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="791.79" ytl="848.06" xbr="1014.40" ybr="905.40" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="782.74" ytl="849.25" xbr="1010.57" ybr="907.12" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="32" keyframe="1" outside="0" occluded="0" xtl="773.69" ytl="850.43" xbr="1006.74" ybr="908.84" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="745.82" ytl="854.31" xbr="984.09" ybr="913.25" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="717.95" ytl="858.18" xbr="961.43" ybr="917.66" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="690.07" ytl="862.06" xbr="938.78" ybr="922.07" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="662.20" ytl="865.93" xbr="916.12" ybr="926.48" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="0" xtl="634.32" ytl="869.81" xbr="893.47" ybr="930.89" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="606.45" ytl="873.68" xbr="870.81" ybr="935.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="0" xtl="578.57" ytl="877.56" xbr="848.16" ybr="939.71" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="550.70" ytl="881.43" xbr="825.50" ybr="944.12" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="503.35" ytl="887.29" xbr="791.68" ybr="951.34" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="456.01" ytl="893.16" xbr="757.86" ybr="958.56" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="408.66" ytl="899.02" xbr="724.04" ybr="965.77" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="361.31" ytl="904.88" xbr="690.22" ybr="972.99" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="313.96" ytl="910.74" xbr="656.40" ybr="980.21" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="266.62" ytl="916.60" xbr="622.58" ybr="987.43" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="219.27" ytl="922.47" xbr="588.76" ybr="994.65" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="171.92" ytl="928.33" xbr="554.94" ybr="1001.86" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="124.58" ytl="934.19" xbr="521.12" ybr="1009.08" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="52" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="53" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="54" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="55" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="56" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="57" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="58" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="59" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="60" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="61" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="62" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="63" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="64" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="65" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="66" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="67" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="68" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="69" keyframe="0" outside="0" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+    <box frame="70" keyframe="1" outside="1" occluded="0" xtl="77.23" ytl="940.05" xbr="487.30" ybr="1016.30" z_order="0">
+      <attribute name="immatriculation">18177ﺃ33</attribute>
+    </box>
+  </track>
+  <track id="1" label="plate" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1842.60" ytl="937.56" xbr="1995.50" ybr="981.36" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="1" keyframe="0" outside="0" occluded="0" xtl="1809.79" ytl="925.97" xbr="1955.07" ybr="967.88" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="2" keyframe="0" outside="0" occluded="0" xtl="1776.98" ytl="914.38" xbr="1914.64" ybr="954.40" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="3" keyframe="0" outside="0" occluded="0" xtl="1744.17" ytl="902.80" xbr="1874.21" ybr="940.93" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="4" keyframe="0" outside="0" occluded="0" xtl="1711.36" ytl="891.21" xbr="1833.78" ybr="927.45" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="5" keyframe="0" outside="0" occluded="0" xtl="1678.55" ytl="879.63" xbr="1793.35" ybr="913.98" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="6" keyframe="0" outside="0" occluded="0" xtl="1645.74" ytl="868.04" xbr="1752.92" ybr="900.50" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="7" keyframe="0" outside="0" occluded="0" xtl="1612.93" ytl="856.46" xbr="1712.49" ybr="887.03" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="8" keyframe="0" outside="0" occluded="0" xtl="1580.12" ytl="844.87" xbr="1672.06" ybr="873.55" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="9" keyframe="0" outside="0" occluded="0" xtl="1547.31" ytl="833.29" xbr="1631.63" ybr="860.08" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="10" keyframe="1" outside="0" occluded="0" xtl="1514.50" ytl="821.70" xbr="1591.20" ybr="846.60" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="11" keyframe="0" outside="0" occluded="0" xtl="1511.18" ytl="819.79" xbr="1586.48" ybr="844.30" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="12" keyframe="0" outside="0" occluded="0" xtl="1507.86" ytl="817.87" xbr="1581.76" ybr="842.00" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="13" keyframe="0" outside="0" occluded="0" xtl="1504.54" ytl="815.96" xbr="1577.04" ybr="839.70" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="14" keyframe="0" outside="0" occluded="0" xtl="1501.22" ytl="814.04" xbr="1572.32" ybr="837.40" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="15" keyframe="0" outside="0" occluded="0" xtl="1497.91" ytl="812.13" xbr="1567.60" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="16" keyframe="0" outside="0" occluded="0" xtl="1494.59" ytl="810.21" xbr="1562.88" ybr="832.80" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="17" keyframe="0" outside="0" occluded="0" xtl="1491.27" ytl="808.30" xbr="1558.16" ybr="830.50" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="18" keyframe="0" outside="0" occluded="0" xtl="1487.95" ytl="806.38" xbr="1553.44" ybr="828.20" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="19" keyframe="0" outside="0" occluded="0" xtl="1484.63" ytl="804.47" xbr="1548.72" ybr="825.90" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="1481.31" ytl="802.55" xbr="1544.00" ybr="823.60" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="21" keyframe="0" outside="0" occluded="0" xtl="1478.50" ytl="801.42" xbr="1541.19" ybr="822.30" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="22" keyframe="0" outside="0" occluded="0" xtl="1475.70" ytl="800.29" xbr="1538.39" ybr="821.00" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="23" keyframe="0" outside="0" occluded="0" xtl="1472.89" ytl="799.15" xbr="1535.58" ybr="819.71" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="24" keyframe="0" outside="0" occluded="0" xtl="1470.09" ytl="798.02" xbr="1532.78" ybr="818.41" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="25" keyframe="0" outside="0" occluded="0" xtl="1467.28" ytl="796.89" xbr="1529.97" ybr="817.11" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="26" keyframe="0" outside="0" occluded="0" xtl="1464.48" ytl="795.75" xbr="1527.17" ybr="815.81" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="27" keyframe="0" outside="0" occluded="0" xtl="1461.67" ytl="794.62" xbr="1524.36" ybr="814.51" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="28" keyframe="0" outside="0" occluded="0" xtl="1458.86" ytl="793.49" xbr="1521.55" ybr="813.22" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="29" keyframe="0" outside="0" occluded="0" xtl="1456.06" ytl="792.35" xbr="1518.75" ybr="811.92" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="30" keyframe="1" outside="0" occluded="0" xtl="1453.25" ytl="791.22" xbr="1515.94" ybr="810.62" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="31" keyframe="0" outside="0" occluded="0" xtl="1450.07" ytl="791.31" xbr="1511.22" ybr="810.22" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="32" keyframe="0" outside="0" occluded="0" xtl="1446.88" ytl="791.40" xbr="1506.49" ybr="809.82" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="33" keyframe="0" outside="0" occluded="0" xtl="1443.70" ytl="791.49" xbr="1501.77" ybr="809.42" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="34" keyframe="0" outside="0" occluded="0" xtl="1440.51" ytl="791.57" xbr="1497.05" ybr="809.02" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="35" keyframe="0" outside="0" occluded="0" xtl="1437.33" ytl="791.66" xbr="1492.32" ybr="808.62" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="36" keyframe="0" outside="0" occluded="0" xtl="1434.14" ytl="791.75" xbr="1487.60" ybr="808.22" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="37" keyframe="0" outside="0" occluded="0" xtl="1430.96" ytl="791.84" xbr="1482.87" ybr="807.82" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="38" keyframe="0" outside="0" occluded="0" xtl="1427.77" ytl="791.92" xbr="1478.15" ybr="807.41" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="39" keyframe="0" outside="0" occluded="0" xtl="1424.58" ytl="792.01" xbr="1473.42" ybr="807.01" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="1" occluded="0" xtl="1421.40" ytl="792.10" xbr="1468.70" ybr="806.61" z_order="0">
+      <attribute name="immatriculation">48327ﺏ72</attribute>
+    </box>
+  </track>
+  <track id="2" label="plate" source="manual">
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="1766.50" ytl="938.00" xbr="1931.90" ybr="997.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="41" keyframe="0" outside="0" occluded="0" xtl="1745.63" ytl="932.69" xbr="1909.00" ybr="990.07" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="42" keyframe="0" outside="0" occluded="0" xtl="1724.76" ytl="927.38" xbr="1886.10" ybr="982.94" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="43" keyframe="0" outside="0" occluded="0" xtl="1703.89" ytl="922.07" xbr="1863.20" ybr="975.81" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="44" keyframe="0" outside="0" occluded="0" xtl="1683.02" ytl="916.76" xbr="1840.30" ybr="968.68" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="45" keyframe="0" outside="0" occluded="0" xtl="1662.15" ytl="911.45" xbr="1817.40" ybr="961.55" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="46" keyframe="0" outside="0" occluded="0" xtl="1641.28" ytl="906.14" xbr="1794.50" ybr="954.42" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="47" keyframe="0" outside="0" occluded="0" xtl="1620.41" ytl="900.83" xbr="1771.60" ybr="947.29" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="48" keyframe="0" outside="0" occluded="0" xtl="1599.54" ytl="895.52" xbr="1748.70" ybr="940.16" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="49" keyframe="0" outside="0" occluded="0" xtl="1578.67" ytl="890.21" xbr="1725.80" ybr="933.03" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="50" keyframe="1" outside="0" occluded="0" xtl="1557.80" ytl="884.90" xbr="1702.90" ybr="925.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="51" keyframe="0" outside="0" occluded="0" xtl="1547.58" ytl="882.66" xbr="1689.98" ybr="923.02" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="52" keyframe="0" outside="0" occluded="0" xtl="1537.37" ytl="880.43" xbr="1677.05" ybr="920.15" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="53" keyframe="0" outside="0" occluded="0" xtl="1527.15" ytl="878.19" xbr="1664.13" ybr="917.27" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="54" keyframe="0" outside="0" occluded="0" xtl="1516.94" ytl="875.96" xbr="1651.20" ybr="914.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="55" keyframe="0" outside="0" occluded="0" xtl="1506.72" ytl="873.72" xbr="1638.28" ybr="911.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="56" keyframe="0" outside="0" occluded="0" xtl="1496.51" ytl="871.49" xbr="1625.35" ybr="908.65" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="57" keyframe="0" outside="0" occluded="0" xtl="1486.29" ytl="869.25" xbr="1612.43" ybr="905.77" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="58" keyframe="0" outside="0" occluded="0" xtl="1476.08" ytl="867.02" xbr="1599.50" ybr="902.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="59" keyframe="0" outside="0" occluded="0" xtl="1465.86" ytl="864.79" xbr="1586.58" ybr="900.02" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="60" keyframe="0" outside="0" occluded="0" xtl="1455.65" ytl="862.55" xbr="1573.65" ybr="897.15" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="61" keyframe="0" outside="0" occluded="0" xtl="1445.43" ytl="860.32" xbr="1560.73" ybr="894.27" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="62" keyframe="0" outside="0" occluded="0" xtl="1435.22" ytl="858.08" xbr="1547.80" ybr="891.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="63" keyframe="0" outside="0" occluded="0" xtl="1425.00" ytl="855.85" xbr="1534.88" ybr="888.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="64" keyframe="0" outside="0" occluded="0" xtl="1414.79" ytl="853.61" xbr="1521.95" ybr="885.65" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="65" keyframe="0" outside="0" occluded="0" xtl="1404.57" ytl="851.38" xbr="1509.03" ybr="882.77" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="66" keyframe="0" outside="0" occluded="0" xtl="1394.36" ytl="849.14" xbr="1496.10" ybr="879.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="67" keyframe="0" outside="0" occluded="0" xtl="1384.14" ytl="846.91" xbr="1483.18" ybr="877.02" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="68" keyframe="0" outside="0" occluded="0" xtl="1373.93" ytl="844.67" xbr="1470.25" ybr="874.15" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="69" keyframe="0" outside="0" occluded="0" xtl="1363.71" ytl="842.44" xbr="1457.33" ybr="871.27" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="70" keyframe="1" outside="0" occluded="0" xtl="1353.50" ytl="840.20" xbr="1444.40" ybr="868.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="71" keyframe="0" outside="0" occluded="0" xtl="1348.32" ytl="838.74" xbr="1437.81" ybr="866.46" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="72" keyframe="0" outside="0" occluded="0" xtl="1343.15" ytl="837.28" xbr="1431.23" ybr="864.51" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="73" keyframe="0" outside="0" occluded="0" xtl="1337.97" ytl="835.82" xbr="1424.64" ybr="862.57" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="74" keyframe="0" outside="0" occluded="0" xtl="1332.80" ytl="834.36" xbr="1418.06" ybr="860.62" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="75" keyframe="0" outside="0" occluded="0" xtl="1327.62" ytl="832.90" xbr="1411.47" ybr="858.68" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="76" keyframe="0" outside="0" occluded="0" xtl="1322.45" ytl="831.45" xbr="1404.89" ybr="856.74" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="77" keyframe="0" outside="0" occluded="0" xtl="1317.27" ytl="829.99" xbr="1398.30" ybr="854.79" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="78" keyframe="0" outside="0" occluded="0" xtl="1312.10" ytl="828.53" xbr="1391.72" ybr="852.85" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="79" keyframe="0" outside="0" occluded="0" xtl="1306.92" ytl="827.07" xbr="1385.13" ybr="850.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="80" keyframe="0" outside="0" occluded="0" xtl="1301.75" ytl="825.61" xbr="1378.55" ybr="848.96" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="81" keyframe="0" outside="0" occluded="0" xtl="1296.57" ytl="824.15" xbr="1371.96" ybr="847.02" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="82" keyframe="0" outside="0" occluded="0" xtl="1291.40" ytl="822.69" xbr="1365.38" ybr="845.07" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="83" keyframe="0" outside="0" occluded="0" xtl="1286.22" ytl="821.23" xbr="1358.79" ybr="843.13" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="84" keyframe="0" outside="0" occluded="0" xtl="1281.05" ytl="819.77" xbr="1352.21" ybr="841.18" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="85" keyframe="0" outside="0" occluded="0" xtl="1275.87" ytl="818.31" xbr="1345.62" ybr="839.24" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="86" keyframe="0" outside="0" occluded="0" xtl="1270.70" ytl="816.86" xbr="1339.04" ybr="837.30" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="87" keyframe="0" outside="0" occluded="0" xtl="1265.52" ytl="815.40" xbr="1332.45" ybr="835.35" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="88" keyframe="0" outside="0" occluded="0" xtl="1260.35" ytl="813.94" xbr="1325.87" ybr="833.41" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="89" keyframe="0" outside="0" occluded="0" xtl="1255.17" ytl="812.48" xbr="1319.28" ybr="831.46" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="90" keyframe="1" outside="0" occluded="0" xtl="1250.00" ytl="811.02" xbr="1312.70" ybr="829.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="91" keyframe="0" outside="0" occluded="0" xtl="1247.86" ytl="810.02" xbr="1310.99" ybr="828.57" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="92" keyframe="0" outside="0" occluded="0" xtl="1245.72" ytl="809.02" xbr="1309.28" ybr="827.62" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="93" keyframe="0" outside="0" occluded="0" xtl="1243.59" ytl="808.03" xbr="1307.57" ybr="826.67" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="94" keyframe="0" outside="0" occluded="0" xtl="1241.45" ytl="807.03" xbr="1305.86" ybr="825.72" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="95" keyframe="0" outside="0" occluded="0" xtl="1239.31" ytl="806.03" xbr="1304.15" ybr="824.76" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="96" keyframe="0" outside="0" occluded="0" xtl="1237.17" ytl="805.03" xbr="1302.44" ybr="823.81" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="97" keyframe="0" outside="0" occluded="0" xtl="1235.04" ytl="804.04" xbr="1300.73" ybr="822.86" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="98" keyframe="0" outside="0" occluded="0" xtl="1232.90" ytl="803.04" xbr="1299.02" ybr="821.91" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="99" keyframe="0" outside="0" occluded="0" xtl="1230.76" ytl="802.04" xbr="1297.31" ybr="820.96" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="100" keyframe="0" outside="0" occluded="0" xtl="1228.62" ytl="801.04" xbr="1295.60" ybr="820.01" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="101" keyframe="0" outside="0" occluded="0" xtl="1226.48" ytl="800.05" xbr="1293.89" ybr="819.06" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="102" keyframe="0" outside="0" occluded="0" xtl="1224.35" ytl="799.05" xbr="1292.18" ybr="818.11" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="103" keyframe="0" outside="0" occluded="0" xtl="1222.21" ytl="798.05" xbr="1290.47" ybr="817.16" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="104" keyframe="0" outside="0" occluded="0" xtl="1220.07" ytl="797.05" xbr="1288.76" ybr="816.21" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="105" keyframe="0" outside="0" occluded="0" xtl="1217.93" ytl="796.06" xbr="1287.05" ybr="815.25" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="106" keyframe="0" outside="0" occluded="0" xtl="1215.80" ytl="795.06" xbr="1285.34" ybr="814.30" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="107" keyframe="0" outside="0" occluded="0" xtl="1213.66" ytl="794.06" xbr="1283.63" ybr="813.35" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="108" keyframe="0" outside="0" occluded="0" xtl="1211.52" ytl="793.06" xbr="1281.92" ybr="812.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="109" keyframe="0" outside="0" occluded="0" xtl="1209.38" ytl="792.06" xbr="1280.21" ybr="811.45" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="110" keyframe="1" outside="0" occluded="0" xtl="1207.25" ytl="791.07" xbr="1278.50" ybr="810.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="111" keyframe="0" outside="0" occluded="0" xtl="1206.72" ytl="790.69" xbr="1276.82" ybr="809.92" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="112" keyframe="0" outside="0" occluded="0" xtl="1206.20" ytl="790.31" xbr="1275.13" ybr="809.33" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="113" keyframe="0" outside="0" occluded="0" xtl="1205.67" ytl="789.94" xbr="1273.45" ybr="808.75" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="114" keyframe="0" outside="0" occluded="0" xtl="1205.15" ytl="789.56" xbr="1271.76" ybr="808.16" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="115" keyframe="0" outside="0" occluded="0" xtl="1204.63" ytl="789.18" xbr="1270.08" ybr="807.58" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="116" keyframe="0" outside="0" occluded="0" xtl="1204.10" ytl="788.81" xbr="1268.40" ybr="806.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="117" keyframe="0" outside="0" occluded="0" xtl="1203.58" ytl="788.43" xbr="1266.71" ybr="806.41" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="118" keyframe="0" outside="0" occluded="0" xtl="1203.05" ytl="788.05" xbr="1265.03" ybr="805.82" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="119" keyframe="0" outside="0" occluded="0" xtl="1202.53" ytl="787.68" xbr="1263.34" ybr="805.24" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="1202.01" ytl="787.30" xbr="1261.66" ybr="804.65" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="121" keyframe="0" outside="0" occluded="0" xtl="1201.89" ytl="787.19" xbr="1262.11" ybr="804.54" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="122" keyframe="0" outside="0" occluded="0" xtl="1201.78" ytl="787.07" xbr="1262.56" ybr="804.42" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="123" keyframe="0" outside="0" occluded="0" xtl="1201.66" ytl="786.96" xbr="1263.02" ybr="804.31" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="124" keyframe="0" outside="0" occluded="0" xtl="1201.55" ytl="786.84" xbr="1263.47" ybr="804.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="125" keyframe="0" outside="0" occluded="0" xtl="1201.43" ytl="786.73" xbr="1263.92" ybr="804.08" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="126" keyframe="0" outside="0" occluded="0" xtl="1201.32" ytl="786.61" xbr="1264.37" ybr="803.97" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="127" keyframe="0" outside="0" occluded="0" xtl="1201.20" ytl="786.50" xbr="1264.82" ybr="803.85" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="128" keyframe="0" outside="0" occluded="0" xtl="1201.09" ytl="786.38" xbr="1265.28" ybr="803.74" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="129" keyframe="0" outside="0" occluded="0" xtl="1200.97" ytl="786.27" xbr="1265.73" ybr="803.62" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="130" keyframe="0" outside="0" occluded="0" xtl="1200.86" ytl="786.15" xbr="1266.18" ybr="803.51" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="131" keyframe="0" outside="0" occluded="0" xtl="1200.74" ytl="786.04" xbr="1266.63" ybr="803.39" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="132" keyframe="0" outside="0" occluded="0" xtl="1200.63" ytl="785.92" xbr="1267.08" ybr="803.28" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="133" keyframe="0" outside="0" occluded="0" xtl="1200.51" ytl="785.81" xbr="1267.54" ybr="803.16" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="134" keyframe="0" outside="0" occluded="0" xtl="1200.40" ytl="785.69" xbr="1267.99" ybr="803.05" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="135" keyframe="0" outside="0" occluded="0" xtl="1200.28" ytl="785.58" xbr="1268.44" ybr="802.93" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="136" keyframe="0" outside="0" occluded="0" xtl="1200.17" ytl="785.46" xbr="1268.89" ybr="802.82" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="137" keyframe="0" outside="0" occluded="0" xtl="1200.05" ytl="785.35" xbr="1269.34" ybr="802.70" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="138" keyframe="0" outside="0" occluded="0" xtl="1199.94" ytl="785.23" xbr="1269.80" ybr="802.59" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="139" keyframe="0" outside="0" occluded="0" xtl="1199.82" ytl="785.12" xbr="1270.25" ybr="802.47" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="1199.71" ytl="785.00" xbr="1270.70" ybr="802.36" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="141" keyframe="0" outside="0" occluded="0" xtl="1200.70" ytl="785.32" xbr="1272.09" ybr="802.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="142" keyframe="0" outside="0" occluded="0" xtl="1201.68" ytl="785.63" xbr="1273.48" ybr="803.61" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="143" keyframe="0" outside="0" occluded="0" xtl="1202.67" ytl="785.95" xbr="1274.87" ybr="804.24" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="144" keyframe="0" outside="0" occluded="0" xtl="1203.66" ytl="786.26" xbr="1276.26" ybr="804.87" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="145" keyframe="0" outside="0" occluded="0" xtl="1204.64" ytl="786.57" xbr="1277.65" ybr="805.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="146" keyframe="0" outside="0" occluded="0" xtl="1205.63" ytl="786.89" xbr="1279.04" ybr="806.12" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="147" keyframe="0" outside="0" occluded="0" xtl="1206.62" ytl="787.20" xbr="1280.43" ybr="806.75" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="148" keyframe="0" outside="0" occluded="0" xtl="1207.60" ytl="787.52" xbr="1281.82" ybr="807.38" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="149" keyframe="0" outside="0" occluded="0" xtl="1208.59" ytl="787.83" xbr="1283.21" ybr="808.01" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="150" keyframe="0" outside="0" occluded="0" xtl="1209.58" ytl="788.14" xbr="1284.60" ybr="808.63" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="151" keyframe="0" outside="0" occluded="0" xtl="1210.57" ytl="788.46" xbr="1285.99" ybr="809.26" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="152" keyframe="0" outside="0" occluded="0" xtl="1211.55" ytl="788.77" xbr="1287.39" ybr="809.89" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="153" keyframe="0" outside="0" occluded="0" xtl="1212.54" ytl="789.09" xbr="1288.78" ybr="810.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="154" keyframe="0" outside="0" occluded="0" xtl="1213.53" ytl="789.40" xbr="1290.17" ybr="811.15" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="155" keyframe="0" outside="0" occluded="0" xtl="1214.51" ytl="789.71" xbr="1291.56" ybr="811.77" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="156" keyframe="0" outside="0" occluded="0" xtl="1215.50" ytl="790.03" xbr="1292.95" ybr="812.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="157" keyframe="0" outside="0" occluded="0" xtl="1216.49" ytl="790.34" xbr="1294.34" ybr="813.03" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="158" keyframe="0" outside="0" occluded="0" xtl="1217.47" ytl="790.66" xbr="1295.73" ybr="813.66" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="159" keyframe="0" outside="0" occluded="0" xtl="1218.46" ytl="790.97" xbr="1297.12" ybr="814.28" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="160" keyframe="1" outside="0" occluded="0" xtl="1219.45" ytl="791.28" xbr="1298.51" ybr="814.91" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="161" keyframe="0" outside="0" occluded="0" xtl="1220.43" ytl="792.42" xbr="1299.65" ybr="816.05" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="162" keyframe="0" outside="0" occluded="0" xtl="1221.42" ytl="793.55" xbr="1300.79" ybr="817.18" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="163" keyframe="0" outside="0" occluded="0" xtl="1222.41" ytl="794.69" xbr="1301.93" ybr="818.31" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="164" keyframe="0" outside="0" occluded="0" xtl="1223.39" ytl="795.82" xbr="1303.07" ybr="819.45" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="165" keyframe="0" outside="0" occluded="0" xtl="1224.38" ytl="796.96" xbr="1304.21" ybr="820.58" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="166" keyframe="0" outside="0" occluded="0" xtl="1225.37" ytl="798.09" xbr="1305.35" ybr="821.72" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="167" keyframe="0" outside="0" occluded="0" xtl="1226.36" ytl="799.22" xbr="1306.49" ybr="822.85" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="168" keyframe="0" outside="0" occluded="0" xtl="1227.34" ytl="800.36" xbr="1307.63" ybr="823.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="169" keyframe="0" outside="0" occluded="0" xtl="1228.33" ytl="801.49" xbr="1308.76" ybr="825.12" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="170" keyframe="0" outside="0" occluded="0" xtl="1229.32" ytl="802.63" xbr="1309.90" ybr="826.25" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="171" keyframe="0" outside="0" occluded="0" xtl="1230.30" ytl="803.76" xbr="1311.04" ybr="827.39" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="172" keyframe="0" outside="0" occluded="0" xtl="1231.29" ytl="804.90" xbr="1312.18" ybr="828.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="173" keyframe="0" outside="0" occluded="0" xtl="1232.28" ytl="806.03" xbr="1313.32" ybr="829.66" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="174" keyframe="0" outside="0" occluded="0" xtl="1233.26" ytl="807.17" xbr="1314.46" ybr="830.79" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="175" keyframe="0" outside="0" occluded="0" xtl="1234.25" ytl="808.30" xbr="1315.60" ybr="831.93" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="176" keyframe="0" outside="0" occluded="0" xtl="1235.24" ytl="809.43" xbr="1316.74" ybr="833.06" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="177" keyframe="0" outside="0" occluded="0" xtl="1236.22" ytl="810.57" xbr="1317.88" ybr="834.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="178" keyframe="0" outside="0" occluded="0" xtl="1237.21" ytl="811.70" xbr="1319.02" ybr="835.33" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="179" keyframe="0" outside="0" occluded="0" xtl="1238.20" ytl="812.84" xbr="1320.16" ybr="836.46" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="1239.19" ytl="813.97" xbr="1321.30" ybr="837.60" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="181" keyframe="0" outside="0" occluded="0" xtl="1239.50" ytl="815.31" xbr="1323.35" ybr="839.01" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="182" keyframe="0" outside="0" occluded="0" xtl="1239.82" ytl="816.64" xbr="1325.39" ybr="840.43" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="183" keyframe="0" outside="0" occluded="0" xtl="1240.13" ytl="817.98" xbr="1327.44" ybr="841.84" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="184" keyframe="0" outside="0" occluded="0" xtl="1240.45" ytl="819.32" xbr="1329.48" ybr="843.26" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="185" keyframe="0" outside="0" occluded="0" xtl="1240.76" ytl="820.65" xbr="1331.53" ybr="844.67" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="186" keyframe="0" outside="0" occluded="0" xtl="1241.08" ytl="821.99" xbr="1333.57" ybr="846.09" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="187" keyframe="0" outside="0" occluded="0" xtl="1241.40" ytl="823.33" xbr="1335.62" ybr="847.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="188" keyframe="0" outside="0" occluded="0" xtl="1241.71" ytl="824.66" xbr="1337.66" ybr="848.92" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="189" keyframe="0" outside="0" occluded="0" xtl="1242.03" ytl="826.00" xbr="1339.71" ybr="850.33" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="190" keyframe="0" outside="0" occluded="0" xtl="1242.34" ytl="827.34" xbr="1341.75" ybr="851.75" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="191" keyframe="0" outside="0" occluded="0" xtl="1242.66" ytl="828.67" xbr="1343.80" ybr="853.16" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="192" keyframe="0" outside="0" occluded="0" xtl="1242.97" ytl="830.01" xbr="1345.84" ybr="854.58" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="193" keyframe="0" outside="0" occluded="0" xtl="1243.29" ytl="831.35" xbr="1347.89" ybr="855.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="194" keyframe="0" outside="0" occluded="0" xtl="1243.61" ytl="832.68" xbr="1349.93" ybr="857.41" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="195" keyframe="0" outside="0" occluded="0" xtl="1243.92" ytl="834.02" xbr="1351.98" ybr="858.82" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="196" keyframe="0" outside="0" occluded="0" xtl="1244.24" ytl="835.35" xbr="1354.02" ybr="860.24" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="197" keyframe="0" outside="0" occluded="0" xtl="1244.55" ytl="836.69" xbr="1356.07" ybr="861.65" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="198" keyframe="0" outside="0" occluded="0" xtl="1244.87" ytl="838.03" xbr="1358.11" ybr="863.07" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="199" keyframe="0" outside="0" occluded="0" xtl="1245.18" ytl="839.36" xbr="1360.16" ybr="864.48" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="1245.50" ytl="840.70" xbr="1362.20" ybr="865.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="201" keyframe="0" outside="0" occluded="0" xtl="1246.57" ytl="842.06" xbr="1363.27" ybr="867.26" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="202" keyframe="0" outside="0" occluded="0" xtl="1247.65" ytl="843.43" xbr="1364.35" ybr="868.63" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="203" keyframe="0" outside="0" occluded="0" xtl="1248.72" ytl="844.79" xbr="1365.42" ybr="869.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="204" keyframe="0" outside="0" occluded="0" xtl="1249.80" ytl="846.15" xbr="1366.50" ybr="871.35" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="205" keyframe="0" outside="0" occluded="0" xtl="1250.87" ytl="847.52" xbr="1367.57" ybr="872.72" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="206" keyframe="0" outside="0" occluded="0" xtl="1251.94" ytl="848.88" xbr="1368.64" ybr="874.08" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="207" keyframe="0" outside="0" occluded="0" xtl="1253.02" ytl="850.24" xbr="1369.72" ybr="875.44" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="1254.09" ytl="851.61" xbr="1370.79" ybr="876.81" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="209" keyframe="0" outside="0" occluded="0" xtl="1255.17" ytl="852.97" xbr="1371.87" ybr="878.17" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="210" keyframe="0" outside="0" occluded="0" xtl="1256.24" ytl="854.33" xbr="1372.94" ybr="879.53" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="211" keyframe="0" outside="0" occluded="0" xtl="1257.31" ytl="855.70" xbr="1374.01" ybr="880.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="212" keyframe="0" outside="0" occluded="0" xtl="1258.39" ytl="857.06" xbr="1375.09" ybr="882.26" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="213" keyframe="0" outside="0" occluded="0" xtl="1259.46" ytl="858.42" xbr="1376.16" ybr="883.62" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="214" keyframe="0" outside="0" occluded="0" xtl="1260.53" ytl="859.79" xbr="1377.23" ybr="884.99" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="215" keyframe="0" outside="0" occluded="0" xtl="1261.61" ytl="861.15" xbr="1378.31" ybr="886.35" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="1262.68" ytl="862.51" xbr="1379.38" ybr="887.71" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="217" keyframe="0" outside="0" occluded="0" xtl="1263.76" ytl="863.88" xbr="1380.46" ybr="889.08" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="1264.83" ytl="865.24" xbr="1381.53" ybr="890.44" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="219" keyframe="0" outside="0" occluded="0" xtl="1265.90" ytl="866.60" xbr="1382.60" ybr="891.80" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="1266.98" ytl="867.97" xbr="1383.68" ybr="893.17" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="221" keyframe="0" outside="0" occluded="0" xtl="1267.30" ytl="868.37" xbr="1385.69" ybr="894.45" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="1267.62" ytl="868.77" xbr="1387.70" ybr="895.74" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="1267.94" ytl="869.17" xbr="1389.71" ybr="897.03" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="224" keyframe="0" outside="0" occluded="0" xtl="1268.26" ytl="869.57" xbr="1391.72" ybr="898.31" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="1268.58" ytl="869.98" xbr="1393.73" ybr="899.60" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="226" keyframe="0" outside="0" occluded="0" xtl="1268.90" ytl="870.38" xbr="1395.74" ybr="900.89" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="227" keyframe="0" outside="0" occluded="0" xtl="1269.23" ytl="870.78" xbr="1397.76" ybr="902.17" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="1269.55" ytl="871.18" xbr="1399.77" ybr="903.46" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="1269.87" ytl="871.58" xbr="1401.78" ybr="904.75" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="230" keyframe="0" outside="0" occluded="0" xtl="1270.19" ytl="871.98" xbr="1403.79" ybr="906.03" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="231" keyframe="0" outside="0" occluded="0" xtl="1270.51" ytl="872.39" xbr="1405.80" ybr="907.32" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="232" keyframe="0" outside="0" occluded="0" xtl="1270.83" ytl="872.79" xbr="1407.81" ybr="908.61" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="233" keyframe="0" outside="0" occluded="0" xtl="1271.15" ytl="873.19" xbr="1409.82" ybr="909.89" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="234" keyframe="0" outside="0" occluded="0" xtl="1271.47" ytl="873.59" xbr="1411.83" ybr="911.18" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="235" keyframe="0" outside="0" occluded="0" xtl="1271.79" ytl="873.99" xbr="1413.84" ybr="912.47" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="236" keyframe="0" outside="0" occluded="0" xtl="1272.12" ytl="874.39" xbr="1415.86" ybr="913.75" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="237" keyframe="0" outside="0" occluded="0" xtl="1272.44" ytl="874.80" xbr="1417.87" ybr="915.04" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="238" keyframe="0" outside="0" occluded="0" xtl="1272.76" ytl="875.20" xbr="1419.88" ybr="916.33" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="239" keyframe="0" outside="0" occluded="0" xtl="1273.08" ytl="875.60" xbr="1421.89" ybr="917.61" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="240" keyframe="1" outside="0" occluded="0" xtl="1273.40" ytl="876.00" xbr="1423.90" ybr="918.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="241" keyframe="0" outside="0" occluded="0" xtl="1274.06" ytl="877.32" xbr="1424.34" ybr="920.00" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="242" keyframe="0" outside="0" occluded="0" xtl="1274.72" ytl="878.63" xbr="1424.78" ybr="921.10" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="243" keyframe="0" outside="0" occluded="0" xtl="1275.38" ytl="879.95" xbr="1425.22" ybr="922.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="244" keyframe="0" outside="0" occluded="0" xtl="1276.04" ytl="881.27" xbr="1425.66" ybr="923.30" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="245" keyframe="0" outside="0" occluded="0" xtl="1276.70" ytl="882.59" xbr="1426.10" ybr="924.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="246" keyframe="0" outside="0" occluded="0" xtl="1277.36" ytl="883.90" xbr="1426.53" ybr="925.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="247" keyframe="0" outside="0" occluded="0" xtl="1278.02" ytl="885.22" xbr="1426.97" ybr="926.60" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="248" keyframe="0" outside="0" occluded="0" xtl="1278.68" ytl="886.54" xbr="1427.41" ybr="927.70" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="249" keyframe="0" outside="0" occluded="0" xtl="1279.34" ytl="887.86" xbr="1427.85" ybr="928.80" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="250" keyframe="0" outside="0" occluded="0" xtl="1280.00" ytl="889.17" xbr="1428.29" ybr="929.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="251" keyframe="0" outside="0" occluded="0" xtl="1280.66" ytl="890.49" xbr="1428.73" ybr="931.00" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="252" keyframe="0" outside="0" occluded="0" xtl="1281.32" ytl="891.81" xbr="1429.17" ybr="932.10" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="253" keyframe="0" outside="0" occluded="0" xtl="1281.98" ytl="893.12" xbr="1429.61" ybr="933.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="254" keyframe="0" outside="0" occluded="0" xtl="1282.64" ytl="894.44" xbr="1430.05" ybr="934.30" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="255" keyframe="0" outside="0" occluded="0" xtl="1283.30" ytl="895.76" xbr="1430.49" ybr="935.40" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="256" keyframe="0" outside="0" occluded="0" xtl="1283.96" ytl="897.08" xbr="1430.92" ybr="936.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="257" keyframe="0" outside="0" occluded="0" xtl="1284.62" ytl="898.39" xbr="1431.36" ybr="937.60" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="258" keyframe="0" outside="0" occluded="0" xtl="1285.28" ytl="899.71" xbr="1431.80" ybr="938.70" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="259" keyframe="0" outside="0" occluded="0" xtl="1285.94" ytl="901.03" xbr="1432.24" ybr="939.80" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="260" keyframe="1" outside="0" occluded="0" xtl="1286.60" ytl="902.35" xbr="1432.68" ybr="940.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="261" keyframe="0" outside="0" occluded="0" xtl="1286.47" ytl="901.59" xbr="1431.90" ybr="940.14" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="262" keyframe="0" outside="0" occluded="0" xtl="1286.33" ytl="900.83" xbr="1431.11" ybr="939.39" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="263" keyframe="0" outside="0" occluded="0" xtl="1286.20" ytl="900.08" xbr="1430.33" ybr="938.63" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="264" keyframe="0" outside="0" occluded="0" xtl="1286.06" ytl="899.32" xbr="1429.54" ybr="937.87" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="265" keyframe="0" outside="0" occluded="0" xtl="1285.93" ytl="898.56" xbr="1428.76" ybr="937.12" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="266" keyframe="0" outside="0" occluded="0" xtl="1285.79" ytl="897.81" xbr="1427.97" ybr="936.36" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="267" keyframe="0" outside="0" occluded="0" xtl="1285.66" ytl="897.05" xbr="1427.19" ybr="935.60" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="268" keyframe="0" outside="0" occluded="0" xtl="1285.52" ytl="896.29" xbr="1426.40" ybr="934.85" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="269" keyframe="0" outside="0" occluded="0" xtl="1285.39" ytl="895.54" xbr="1425.62" ybr="934.09" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="270" keyframe="0" outside="0" occluded="0" xtl="1285.25" ytl="894.78" xbr="1424.84" ybr="933.33" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="271" keyframe="0" outside="0" occluded="0" xtl="1285.12" ytl="894.02" xbr="1424.05" ybr="932.58" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="272" keyframe="0" outside="0" occluded="0" xtl="1284.98" ytl="893.27" xbr="1423.27" ybr="931.82" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="273" keyframe="0" outside="0" occluded="0" xtl="1284.85" ytl="892.51" xbr="1422.48" ybr="931.06" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="274" keyframe="0" outside="0" occluded="0" xtl="1284.71" ytl="891.75" xbr="1421.70" ybr="930.31" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="275" keyframe="0" outside="0" occluded="0" xtl="1284.58" ytl="891.00" xbr="1420.91" ybr="929.55" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="276" keyframe="0" outside="0" occluded="0" xtl="1284.44" ytl="890.24" xbr="1420.13" ybr="928.79" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="277" keyframe="0" outside="0" occluded="0" xtl="1284.31" ytl="889.48" xbr="1419.34" ybr="928.04" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="278" keyframe="0" outside="0" occluded="0" xtl="1284.17" ytl="888.73" xbr="1418.56" ybr="927.28" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="279" keyframe="0" outside="0" occluded="0" xtl="1284.04" ytl="887.97" xbr="1417.77" ybr="926.52" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="280" keyframe="0" outside="0" occluded="0" xtl="1283.90" ytl="887.21" xbr="1416.99" ybr="925.77" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="281" keyframe="0" outside="0" occluded="0" xtl="1283.77" ytl="886.46" xbr="1416.21" ybr="925.01" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="282" keyframe="0" outside="0" occluded="0" xtl="1283.63" ytl="885.70" xbr="1415.42" ybr="924.25" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="283" keyframe="0" outside="0" occluded="0" xtl="1283.50" ytl="884.94" xbr="1414.64" ybr="923.50" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="284" keyframe="0" outside="0" occluded="0" xtl="1283.36" ytl="884.19" xbr="1413.85" ybr="922.74" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="285" keyframe="0" outside="0" occluded="0" xtl="1283.23" ytl="883.43" xbr="1413.07" ybr="921.98" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="286" keyframe="0" outside="0" occluded="0" xtl="1283.09" ytl="882.67" xbr="1412.28" ybr="921.23" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="287" keyframe="0" outside="0" occluded="0" xtl="1282.96" ytl="881.92" xbr="1411.50" ybr="920.47" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="288" keyframe="0" outside="0" occluded="0" xtl="1282.82" ytl="881.16" xbr="1410.71" ybr="919.71" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="289" keyframe="0" outside="0" occluded="0" xtl="1282.69" ytl="880.40" xbr="1409.93" ybr="918.96" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="290" keyframe="0" outside="0" occluded="0" xtl="1282.55" ytl="879.65" xbr="1409.15" ybr="918.20" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="291" keyframe="0" outside="0" occluded="0" xtl="1282.42" ytl="878.89" xbr="1408.36" ybr="917.44" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="292" keyframe="0" outside="0" occluded="0" xtl="1282.28" ytl="878.13" xbr="1407.58" ybr="916.69" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="293" keyframe="0" outside="0" occluded="0" xtl="1282.15" ytl="877.38" xbr="1406.79" ybr="915.93" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="294" keyframe="0" outside="0" occluded="0" xtl="1282.01" ytl="876.62" xbr="1406.01" ybr="915.17" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="295" keyframe="0" outside="0" occluded="0" xtl="1281.88" ytl="875.86" xbr="1405.22" ybr="914.42" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="296" keyframe="0" outside="0" occluded="0" xtl="1281.74" ytl="875.11" xbr="1404.44" ybr="913.66" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="297" keyframe="0" outside="0" occluded="0" xtl="1281.61" ytl="874.35" xbr="1403.65" ybr="912.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="298" keyframe="0" outside="0" occluded="0" xtl="1281.47" ytl="873.59" xbr="1402.87" ybr="912.15" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="299" keyframe="0" outside="0" occluded="0" xtl="1281.34" ytl="872.84" xbr="1402.08" ybr="911.39" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="300" keyframe="1" outside="0" occluded="0" xtl="1281.20" ytl="872.08" xbr="1401.30" ybr="910.63" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="301" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="871.11" xbr="1401.30" ybr="909.66" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="302" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="870.13" xbr="1401.30" ybr="908.69" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="303" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="869.16" xbr="1401.30" ybr="907.71" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="304" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="868.19" xbr="1401.30" ybr="906.74" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="305" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="867.21" xbr="1401.30" ybr="905.77" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="306" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="866.24" xbr="1401.30" ybr="904.79" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="307" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="865.27" xbr="1401.30" ybr="903.82" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="308" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="864.29" xbr="1401.30" ybr="902.85" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="309" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="863.32" xbr="1401.30" ybr="901.87" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="310" keyframe="1" outside="0" occluded="0" xtl="1281.20" ytl="862.35" xbr="1401.30" ybr="900.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="311" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="862.35" xbr="1401.30" ybr="900.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="312" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="862.35" xbr="1401.30" ybr="900.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+    <box frame="313" keyframe="0" outside="0" occluded="0" xtl="1281.20" ytl="862.35" xbr="1401.30" ybr="900.90" z_order="0">
+      <attribute name="immatriculation">1533ﻫ6</attribute>
+    </box>
+  </track>
+  <track id="3" label="plate" source="manual">
+    <box frame="90" keyframe="1" outside="0" occluded="0" xtl="207.10" ytl="765.50" xbr="374.40" ybr="801.00" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="91" keyframe="0" outside="0" occluded="0" xtl="174.13" ytl="766.72" xbr="344.42" ybr="802.22" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="92" keyframe="0" outside="0" occluded="0" xtl="141.15" ytl="767.94" xbr="314.44" ybr="803.44" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="93" keyframe="0" outside="0" occluded="0" xtl="108.17" ytl="769.16" xbr="284.46" ybr="804.66" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="94" keyframe="0" outside="0" occluded="0" xtl="75.20" ytl="770.39" xbr="254.48" ybr="805.89" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="95" keyframe="1" outside="0" occluded="0" xtl="42.22" ytl="771.61" xbr="224.50" ybr="807.11" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="96" keyframe="0" outside="0" occluded="0" xtl="53.22" ytl="771.20" xbr="234.49" ybr="806.70" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="97" keyframe="0" outside="0" occluded="0" xtl="64.21" ytl="770.79" xbr="244.49" ybr="806.29" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="98" keyframe="0" outside="0" occluded="0" xtl="75.20" ytl="770.39" xbr="254.48" ybr="805.89" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="99" keyframe="0" outside="0" occluded="0" xtl="86.19" ytl="769.98" xbr="264.47" ybr="805.48" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="100" keyframe="1" outside="1" occluded="0" xtl="97.18" ytl="769.57" xbr="274.47" ybr="805.07" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+    <box frame="110" keyframe="1" outside="1" occluded="0" xtl="207.10" ytl="765.50" xbr="374.40" ybr="801.00" z_order="0">
+      <attribute name="immatriculation">9224ﺏ72</attribute>
+    </box>
+  </track>
+  <track id="4" label="plate" source="manual">
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="121" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="122" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="123" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="124" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="125" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="126" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="127" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="128" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="129" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="130" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="131" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="132" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="133" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="134" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="135" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="136" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="137" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="138" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="139" keyframe="0" outside="0" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+    <box frame="140" keyframe="1" outside="1" occluded="0" xtl="446.60" ytl="757.20" xbr="568.10" ybr="792.30" z_order="0">
+      <attribute name="immatriculation">34938ﻭ1</attribute>
+    </box>
+  </track>
+  <track id="5" label="plate" source="manual">
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="817.66" ytl="745.70" xbr="899.77" ybr="769.32" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="181" keyframe="0" outside="0" occluded="0" xtl="812.95" ytl="746.54" xbr="895.44" ybr="770.16" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="182" keyframe="0" outside="0" occluded="0" xtl="808.24" ytl="747.38" xbr="891.10" ybr="771.01" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="183" keyframe="0" outside="0" occluded="0" xtl="803.53" ytl="748.22" xbr="886.76" ybr="771.85" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="184" keyframe="0" outside="0" occluded="0" xtl="798.82" ytl="749.06" xbr="882.42" ybr="772.69" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="185" keyframe="0" outside="0" occluded="0" xtl="794.11" ytl="749.90" xbr="878.08" ybr="773.53" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="186" keyframe="0" outside="0" occluded="0" xtl="789.40" ytl="750.74" xbr="873.74" ybr="774.37" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="187" keyframe="0" outside="0" occluded="0" xtl="784.69" ytl="751.58" xbr="869.40" ybr="775.21" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="188" keyframe="0" outside="0" occluded="0" xtl="779.98" ytl="752.43" xbr="865.06" ybr="776.05" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="189" keyframe="0" outside="0" occluded="0" xtl="775.27" ytl="753.27" xbr="860.73" ybr="776.89" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="190" keyframe="0" outside="0" occluded="0" xtl="770.56" ytl="754.11" xbr="856.39" ybr="777.73" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="191" keyframe="0" outside="0" occluded="0" xtl="765.85" ytl="754.95" xbr="852.05" ybr="778.58" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="192" keyframe="0" outside="0" occluded="0" xtl="761.14" ytl="755.79" xbr="847.71" ybr="779.42" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="193" keyframe="0" outside="0" occluded="0" xtl="756.43" ytl="756.63" xbr="843.37" ybr="780.26" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="194" keyframe="0" outside="0" occluded="0" xtl="751.72" ytl="757.47" xbr="839.03" ybr="781.10" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="195" keyframe="0" outside="0" occluded="0" xtl="747.01" ytl="758.31" xbr="834.69" ybr="781.94" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="196" keyframe="0" outside="0" occluded="0" xtl="742.30" ytl="759.15" xbr="830.35" ybr="782.78" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="197" keyframe="0" outside="0" occluded="0" xtl="737.59" ytl="760.00" xbr="826.02" ybr="783.62" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="198" keyframe="0" outside="0" occluded="0" xtl="732.88" ytl="760.84" xbr="821.68" ybr="784.46" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="199" keyframe="0" outside="0" occluded="0" xtl="728.17" ytl="761.68" xbr="817.34" ybr="785.30" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="723.46" ytl="762.52" xbr="813.00" ybr="786.15" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="201" keyframe="0" outside="0" occluded="0" xtl="714.84" ytl="763.74" xbr="806.18" ybr="787.70" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="202" keyframe="0" outside="0" occluded="0" xtl="706.22" ytl="764.95" xbr="799.36" ybr="789.26" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="203" keyframe="0" outside="0" occluded="0" xtl="697.61" ytl="766.17" xbr="792.54" ybr="790.82" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="204" keyframe="0" outside="0" occluded="0" xtl="688.99" ytl="767.39" xbr="785.73" ybr="792.37" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="205" keyframe="0" outside="0" occluded="0" xtl="680.37" ytl="768.60" xbr="778.91" ybr="793.93" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="206" keyframe="0" outside="0" occluded="0" xtl="671.75" ytl="769.82" xbr="772.09" ybr="795.49" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="207" keyframe="0" outside="0" occluded="0" xtl="663.13" ytl="771.04" xbr="765.27" ybr="797.04" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="654.52" ytl="772.26" xbr="758.45" ybr="798.60" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="209" keyframe="0" outside="0" occluded="0" xtl="645.90" ytl="773.47" xbr="751.63" ybr="800.16" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="210" keyframe="0" outside="0" occluded="0" xtl="637.28" ytl="774.69" xbr="744.81" ybr="801.71" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="211" keyframe="0" outside="0" occluded="0" xtl="628.66" ytl="775.91" xbr="737.99" ybr="803.27" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="212" keyframe="0" outside="0" occluded="0" xtl="620.04" ytl="777.12" xbr="731.18" ybr="804.83" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="213" keyframe="0" outside="0" occluded="0" xtl="611.43" ytl="778.34" xbr="724.36" ybr="806.38" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="214" keyframe="0" outside="0" occluded="0" xtl="602.81" ytl="779.56" xbr="717.54" ybr="807.94" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="215" keyframe="0" outside="0" occluded="0" xtl="594.19" ytl="780.78" xbr="710.72" ybr="809.49" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="585.57" ytl="781.99" xbr="703.90" ybr="811.05" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="217" keyframe="0" outside="0" occluded="0" xtl="576.96" ytl="783.21" xbr="697.08" ybr="812.61" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="568.34" ytl="784.43" xbr="690.26" ybr="814.16" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="219" keyframe="0" outside="0" occluded="0" xtl="559.72" ytl="785.65" xbr="683.45" ybr="815.72" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="551.10" ytl="786.86" xbr="676.63" ybr="817.28" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="221" keyframe="0" outside="0" occluded="0" xtl="534.05" ytl="788.72" xbr="662.84" ybr="820.38" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="517.00" ytl="790.58" xbr="649.04" ybr="823.49" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="499.95" ytl="792.43" xbr="635.25" ybr="826.60" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="224" keyframe="0" outside="0" occluded="0" xtl="482.90" ytl="794.29" xbr="621.46" ybr="829.70" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="465.85" ytl="796.15" xbr="607.67" ybr="832.81" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="226" keyframe="0" outside="0" occluded="0" xtl="448.80" ytl="798.00" xbr="593.88" ybr="835.91" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="227" keyframe="0" outside="0" occluded="0" xtl="431.75" ytl="799.86" xbr="580.09" ybr="839.02" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="414.70" ytl="801.72" xbr="566.30" ybr="842.13" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="397.65" ytl="803.57" xbr="552.50" ybr="845.23" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="230" keyframe="0" outside="0" occluded="0" xtl="380.60" ytl="805.43" xbr="538.71" ybr="848.34" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="231" keyframe="0" outside="0" occluded="0" xtl="363.55" ytl="807.29" xbr="524.92" ybr="851.45" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="232" keyframe="0" outside="0" occluded="0" xtl="346.50" ytl="809.14" xbr="511.13" ybr="854.55" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="233" keyframe="0" outside="0" occluded="0" xtl="329.45" ytl="811.00" xbr="497.34" ybr="857.66" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="234" keyframe="0" outside="0" occluded="0" xtl="312.40" ytl="812.86" xbr="483.55" ybr="860.76" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="235" keyframe="0" outside="0" occluded="0" xtl="295.35" ytl="814.72" xbr="469.76" ybr="863.87" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="236" keyframe="0" outside="0" occluded="0" xtl="278.30" ytl="816.57" xbr="455.97" ybr="866.98" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="237" keyframe="0" outside="0" occluded="0" xtl="261.25" ytl="818.43" xbr="442.17" ybr="870.08" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="238" keyframe="0" outside="0" occluded="0" xtl="244.20" ytl="820.29" xbr="428.38" ybr="873.19" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="239" keyframe="0" outside="0" occluded="0" xtl="227.15" ytl="822.14" xbr="414.59" ybr="876.29" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="240" keyframe="1" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="241" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="242" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="243" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="244" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="245" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="246" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="247" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="248" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="249" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="250" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="251" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="252" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="253" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="254" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="255" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="256" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="257" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="258" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="259" keyframe="0" outside="0" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+    <box frame="260" keyframe="1" outside="1" occluded="0" xtl="210.10" ytl="824.00" xbr="400.80" ybr="879.40" z_order="0">
+      <attribute name="immatriculation">13654ﺏ8</attribute>
+    </box>
+  </track>
+  <track id="6" label="plate" source="manual">
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="2036.60" ytl="748.12" xbr="2136.40" ybr="773.32" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="201" keyframe="0" outside="0" occluded="0" xtl="2052.54" ytl="748.91" xbr="2156.20" ybr="775.20" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="202" keyframe="0" outside="0" occluded="0" xtl="2068.48" ytl="749.70" xbr="2176.00" ybr="777.09" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="203" keyframe="0" outside="0" occluded="0" xtl="2084.42" ytl="750.50" xbr="2195.80" ybr="778.97" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="204" keyframe="0" outside="0" occluded="0" xtl="2100.36" ytl="751.29" xbr="2215.60" ybr="780.86" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="205" keyframe="0" outside="0" occluded="0" xtl="2116.30" ytl="752.08" xbr="2235.40" ybr="782.74" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="206" keyframe="0" outside="0" occluded="0" xtl="2132.24" ytl="752.87" xbr="2255.20" ybr="784.62" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="207" keyframe="0" outside="0" occluded="0" xtl="2148.18" ytl="753.66" xbr="2275.00" ybr="786.51" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="208" keyframe="0" outside="0" occluded="0" xtl="2164.12" ytl="754.46" xbr="2294.80" ybr="788.39" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="209" keyframe="0" outside="0" occluded="0" xtl="2180.06" ytl="755.25" xbr="2314.60" ybr="790.28" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="210" keyframe="0" outside="0" occluded="0" xtl="2196.00" ytl="756.04" xbr="2334.40" ybr="792.16" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="211" keyframe="0" outside="0" occluded="0" xtl="2211.94" ytl="756.83" xbr="2354.20" ybr="794.04" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="212" keyframe="0" outside="0" occluded="0" xtl="2227.88" ytl="757.62" xbr="2374.00" ybr="795.93" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="213" keyframe="0" outside="0" occluded="0" xtl="2243.82" ytl="758.42" xbr="2393.80" ybr="797.81" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="214" keyframe="0" outside="0" occluded="0" xtl="2259.76" ytl="759.21" xbr="2413.60" ybr="799.70" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="215" keyframe="0" outside="0" occluded="0" xtl="2275.70" ytl="760.00" xbr="2433.40" ybr="801.58" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="216" keyframe="0" outside="0" occluded="0" xtl="2291.64" ytl="760.79" xbr="2453.20" ybr="803.46" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="217" keyframe="0" outside="0" occluded="0" xtl="2307.58" ytl="761.58" xbr="2473.00" ybr="805.35" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="218" keyframe="0" outside="0" occluded="0" xtl="2323.52" ytl="762.38" xbr="2492.80" ybr="807.23" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="219" keyframe="0" outside="0" occluded="0" xtl="2339.46" ytl="763.17" xbr="2512.60" ybr="809.12" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="221" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="222" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="223" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="224" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="225" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="226" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="227" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="228" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="229" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="230" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="231" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="232" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="233" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="234" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="235" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="236" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="237" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="238" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="239" keyframe="0" outside="0" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+    <box frame="240" keyframe="1" outside="1" occluded="0" xtl="2355.40" ytl="763.96" xbr="2532.40" ybr="811.00" z_order="0">
+      <attribute name="immatriculation">13838ﻭ6</attribute>
+    </box>
+  </track>
+  <track id="7" label="plate" source="manual">
+    <box frame="240" keyframe="1" outside="0" occluded="0" xtl="1984.50" ytl="751.74" xbr="2111.10" ybr="794.64" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="241" keyframe="0" outside="0" occluded="0" xtl="1999.97" ytl="752.73" xbr="2130.26" ybr="796.66" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="242" keyframe="0" outside="0" occluded="0" xtl="2015.44" ytl="753.72" xbr="2149.42" ybr="798.69" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="243" keyframe="0" outside="0" occluded="0" xtl="2030.91" ytl="754.70" xbr="2168.58" ybr="800.71" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="244" keyframe="0" outside="0" occluded="0" xtl="2046.38" ytl="755.69" xbr="2187.74" ybr="802.73" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="245" keyframe="0" outside="0" occluded="0" xtl="2061.85" ytl="756.68" xbr="2206.90" ybr="804.76" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="246" keyframe="0" outside="0" occluded="0" xtl="2077.32" ytl="757.67" xbr="2226.06" ybr="806.78" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="247" keyframe="0" outside="0" occluded="0" xtl="2092.79" ytl="758.66" xbr="2245.22" ybr="808.80" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="248" keyframe="0" outside="0" occluded="0" xtl="2108.26" ytl="759.64" xbr="2264.38" ybr="810.82" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="249" keyframe="0" outside="0" occluded="0" xtl="2123.73" ytl="760.63" xbr="2283.54" ybr="812.85" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="250" keyframe="0" outside="0" occluded="0" xtl="2139.20" ytl="761.62" xbr="2302.70" ybr="814.87" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="251" keyframe="0" outside="0" occluded="0" xtl="2154.67" ytl="762.61" xbr="2321.86" ybr="816.89" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="252" keyframe="0" outside="0" occluded="0" xtl="2170.14" ytl="763.60" xbr="2341.02" ybr="818.92" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="253" keyframe="0" outside="0" occluded="0" xtl="2185.61" ytl="764.58" xbr="2360.18" ybr="820.94" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="254" keyframe="0" outside="0" occluded="0" xtl="2201.08" ytl="765.57" xbr="2379.34" ybr="822.96" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="255" keyframe="0" outside="0" occluded="0" xtl="2216.55" ytl="766.56" xbr="2398.50" ybr="824.99" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="256" keyframe="0" outside="0" occluded="0" xtl="2232.02" ytl="767.55" xbr="2417.66" ybr="827.01" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="257" keyframe="0" outside="0" occluded="0" xtl="2247.49" ytl="768.54" xbr="2436.82" ybr="829.03" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="258" keyframe="0" outside="0" occluded="0" xtl="2262.96" ytl="769.52" xbr="2455.98" ybr="831.05" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="259" keyframe="0" outside="0" occluded="0" xtl="2278.43" ytl="770.51" xbr="2475.14" ybr="833.08" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="260" keyframe="1" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="261" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="262" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="263" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="264" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="265" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="266" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="267" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="268" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="269" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="270" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="271" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="272" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="273" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="274" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="275" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="276" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="277" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="278" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="279" keyframe="0" outside="0" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+    <box frame="280" keyframe="1" outside="1" occluded="0" xtl="2293.90" ytl="771.50" xbr="2494.30" ybr="835.10" z_order="0">
+      <attribute name="immatriculation">60084ﺃ6</attribute>
+    </box>
+  </track>
+</annotations>

@@ -1,0 +1,31 @@
+# Dépendances d'EXÉCUTION de l'API (UTF-8 ; l'ancien fichier était en UTF-16).
+# Les versions sont celles de votre environnement d'entraînement, pour que
+# les fichiers .keras / .pt se rechargent à l'identique.
+#
+# Installer d'abord torch en version CPU (beaucoup plus léger) :
+#   pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+
+# --- API ---
+fastapi==0.136.3
+uvicorn==0.48.0
+python-multipart==0.0.29
+pydantic==2.13.3
+SQLAlchemy==2.0.50
+requests==2.33.1
+# PostgreSQL (optionnel, seulement si DATABASE_URL=postgresql://...)
+# psycopg2-binary==2.9.12
+# alembic==1.18.4
+
+# --- Vision / OCR ---
+numpy==2.2.6
+opencv-python==4.13.0.92
+pillow==12.2.0
+tensorflow-cpu==2.21.0
+keras==3.12.1
+ultralytics==8.4.41
+lap==0.5.13            # suivi BoT-SORT/ByteTrack (vidéo)
+
+# --- Annotation arabe sur les vidéos (optionnel) ---
+arabic-reshaper==3.0.1
+python-bidi==0.6.7

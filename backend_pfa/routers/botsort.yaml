@@ -1,0 +1,58 @@
+# BoT-SORT configuration compatible with the installed Ultralytics version.
+
+tracker_type: botsort
+
+# Rehausser les seuils pour ne garder que les plaques très nettes
+track_high_thresh: 0.30
+track_low_thresh: 0.20
+new_track_thresh: 0.30
+
+# Réduire drastiquement la mémoire (les plaques passent vite)
+track_buffer: 15
+match_thresh: 0.70
+fuse_score: True
+
+# Désactiver la compensation de mouvement si la caméra est fixe
+gmc_method: none
+
+# Rendre l'association géométrique extrêmement stricte
+proximity_thresh: 0.70
+appearance_thresh: 0.9
+with_reid: false
+model: auto
+
+
+
+
+
+
+
+# tracker_type: botsort
+
+# track_high_thresh: 0.45
+# track_low_thresh: 0.10
+# new_track_thresh: 0.50
+# track_buffer: 60
+# match_thresh: 0.80
+# fuse_score: True
+
+# gmc_method: sparseOptFlow
+# proximity_thresh: 0.5
+# appearance_thresh: 0.8
+# with_reid: false
+# model: auto
+
+# Non, ces paramètres par défaut ne sont pas adaptés pour la détection et la lecture de plaques 
+# d'immatriculation (ALPR / LPR). Ils risquent de provoquer de nombreuses pertes de suivi ou des
+#  inversions d'identifiants (ID).La lecture de plaques d'immatriculation présente deux caractéristiques 
+#  critiques : les voitures bougent vite (les plaques apparaissent et disparaissent très rapidement) et 
+#  la détection d'une plaque dépend fortement de sa netteté et de son angle de vue.Voici pourquoi votre 
+#  configuration actuelle va poser problème et comment l'ajuster :Les problèmes de la configuration actuelle
+#  track_buffer: 60 est trop élevé : Garder une plaque en mémoire pendant 60 frames (environ 2 secondes) alors
+#   qu'elle a quitté l'écran va saturer le tracker. Si une nouvelle voiture arrive immédiatement après, le 
+#   système risque de lui attribuer par erreur l'identifiant de la plaque précédente.track_high_thresh: 0.45 
+#   est trop bas : Pour lire une plaque, vous avez besoin d'une excellente détection. Si le modèle est sûr à 
+#   seulement 45 %, la plaque sera probablement floue ou illisible, ce qui créera du bruit et de fausses 
+#   lectures.with_reid: false est correct mais insuffisant : Les plaques d'immatriculation se ressemblent 
+#   toutes géométriquement (des rectangles blancs/jaunes). La ré-identification visuelle (with_reid: true) 
+#   n'aide pas beaucoup ici et ralentit le système. Il faut donc s'appuyer sur une géométrie ultra-stricte.

@@ -1,0 +1,11 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+# ByteTrack tracker defaults for mode="track"
+# Docs: https://docs.ultralytics.com/modes/track/
+
+tracker_type: bytetrack # Algorithme de suivi utilisé (botsort ou bytetrack)
+track_high_thresh: 0.25 # Seuil de confiance pour la 1ère étape d'association (haute confiance)
+track_low_thresh: 0.1 # Seuil de confiance pour la 2ème étape d'association (basse confiance)
+new_track_thresh: 0.25 # Seuil minimum requis pour initialiser une toute nouvelle trajectoire
+track_buffer: 30        # Nombre de trames (frames) pendant lesquelles conserver un objet perdu en mémoire
+match_thresh: 0.8       # Seuil d'association de similarité (basé sur l'IoU / filtre de Kalman)
+fuse_score: True        # Fusionner le score de détection avec la similarité de mouvement pour l'association

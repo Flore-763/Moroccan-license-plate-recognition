@@ -1,0 +1,317 @@
+image,true,pred,correct,cer
+..\maroc_car\dataset\IMG-20200725-WA0000.jpg,75876أ40,75876ب40,False,0.125
+..\maroc_car\dataset\IMG-20200725-WA0038.jpg,4631ب40,4631ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0045.jpg,67416أ40,67416أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0050.jpg,82858ب1,82858ب1,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0055.jpg,78338أ40,78338أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0060.jpg,78338أ40,78338أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0065.jpg,51333أ59,51333أ59,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0070.jpg,22759أ72,22759أ72,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0075.jpg,1930أ75,11930أ15,False,0.2857142857142857
+..\maroc_car\dataset\IMG-20200725-WA0080.jpg,5940أ84,5940أ84,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0085.jpg,54895ب40,54895ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0090.jpg,34645ب40,34645ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0095.jpg,5204د8,5204د8,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0100.jpg,63507أ40,63507أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0105.jpg,49454أ40,49454أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0110.jpg,20875أ17,20875أ17,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0115.jpg,72706ب40,72706ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0120.jpg,29003أ17,29003أ17,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0126.jpg,31339أ50,31339أ59,False,0.125
+..\maroc_car\dataset\IMG-20200725-WA0134.jpg,11272أ55,11272أ5,False,0.125
+..\maroc_car\dataset\IMG-20200725-WA0152.jpg,63507أ40,63507أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0157.jpg,51333أ59,51333أ40,False,0.25
+..\maroc_car\dataset\IMG-20200725-WA0162.jpg,94502أ2,394502أ72,False,0.2857142857142857
+..\maroc_car\dataset\IMG-20200725-WA0167.jpg,54895ب40,54895ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0172.jpg,5940أ84,5940أ84,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0177.jpg,94502أ7,9502أ7,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200725-WA0182.jpg,27281أ7,27281أ7,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0187.jpg,22759أ72,22759أ72,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0192.jpg,14259أ2,14259أ2,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0197.jpg,78338أ40,70330أ40,False,0.25
+..\maroc_car\dataset\IMG-20200725-WA0202.jpg,78338أ40,78338أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0207.jpg,67416أ40,67416أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0212.jpg,61991ب1,61991ب1,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0217.jpg,58745أ59,58745أ59,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0222.jpg,64777أ40,64777أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0227.jpg,20875أ17,20875أ17,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0232.jpg,31859ب40,31859ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0237.jpg,42045د6,42045د6,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0243.jpg,6723أ72,6723أ72,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0248.jpg,3947أ9,3947أ8,False,0.16666666666666666
+..\maroc_car\dataset\IMG-20200725-WA0257.jpg,14838أ42,14838أ42,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0265.jpg,16792أ42,8792أ40,False,0.375
+..\maroc_car\dataset\IMG-20200725-WA0270.jpg,90764أ40,90764أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0275.jpg,34287أ11,34287أأ1,False,0.125
+..\maroc_car\dataset\IMG-20200725-WA0281.jpg,56497أ40,56497أ44,False,0.125
+..\maroc_car\dataset\IMG-20200725-WA0286.jpg,56497أ40,56497أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0292.jpg,67540أ7,67540أ7,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0297.jpg,9203ب8,9203ب8,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0302.jpg,27596ب40,27596ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0307.jpg,67540أ7,67540أ7,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0312.jpg,88374أ40,88374أ40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0317.jpg,40045أ7,40045أ7,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0322.jpg,45356ب40,45356ب40,True,0.0
+..\maroc_car\dataset\IMG-20200725-WA0327.jpg,56007ھ1,580071,False,0.2857142857142857
+..\maroc_car\dataset\IMG-20200725-WA0332.jpg,12362أ45,12362أ45,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0011.jpg,50277ب8,50277ب8,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0018.jpg,3332أ79,3332أ73,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200728-WA0023.jpg,91620ب1,31820ب1,False,0.2857142857142857
+..\maroc_car\dataset\IMG-20200728-WA0028.jpg,89581ب6,89581ب6,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0035.jpg,96120ب8,96120ب8,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0046.jpg,5871ب26,5871ب26,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0051.jpg,94223أ40,94273أ40,False,0.125
+..\maroc_car\dataset\IMG-20200728-WA0056.jpg,68756أ40,68756أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0061.jpg,20589ھ6,205896,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200728-WA0066.jpg,85562أ40,85562أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0071.jpg,91814ب6,91814ب6,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0076.jpg,16417ب40,16417ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0081.jpg,16417ب40,16417ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0086.jpg,26214ب40,26214ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0091.jpg,12766أ5,12766أ5,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0096.jpg,10644ب40,10644ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0101.jpg,76512أ40,76512أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0106.jpg,21158و1,21158د1,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200728-WA0111.jpg,52448ب40,52448ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0116.jpg,91786أ40,91786أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0121.jpg,64112أ7,64112أ7,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0126.jpg,19640ب40,19640ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0131.jpg,6276ب40,6276ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0136.jpg,92190د6,92190د6,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0141.jpg,88452أ72,98452أ72,False,0.125
+..\maroc_car\dataset\IMG-20200728-WA0146.jpg,57558أ40,57550أ40,False,0.125
+..\maroc_car\dataset\IMG-20200728-WA0151.jpg,43353ھ6,43336,False,0.2857142857142857
+..\maroc_car\dataset\IMG-20200728-WA0156.jpg,57558أ40,57558أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0161.jpg,92190د6,92190د6,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0166.jpg,22787أ20,22787أ20,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0171.jpg,67808ب40,67808ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0176.jpg,1232و6,1232د6,False,0.16666666666666666
+..\maroc_car\dataset\IMG-20200728-WA0181.jpg,13633ب40,13633ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0186.jpg,88730أ40,88730أ40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0191.jpg,11961ب40,11961ب40,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0196.jpg,58289أ40,58283أ40,False,0.125
+..\maroc_car\dataset\IMG-20200728-WA0201.jpg,42661ھ6,42661د6,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200728-WA0206.jpg,55137أ72,55137أ72,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0211.jpg,25222ب72,25222ب72,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0216.jpg,14909و1,14909د1,False,0.14285714285714285
+..\maroc_car\dataset\IMG-20200728-WA0221.jpg,33004أ26,33004أ26,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0226.jpg,69316أ15,69316أ15,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0231.jpg,27088أ13,27088أ13,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0236.jpg,27088أ13,27088أ13,True,0.0
+..\maroc_car\dataset\IMG-20200728-WA0241.jpg,78362أ40,76362أ40,False,0.125
+..\maroc_car\dataset\IMG-20200728-WA0246.jpg,60294ب40,60294ب40,True,0.0
+..\maroc_car\dataset\IMG_0001 (4).jpg,42675ب40,42675ب40,True,0.0
+..\maroc_car\dataset\IMG_0002.jpg,90120أ72,90120أ12,False,0.125
+..\maroc_car\dataset\IMG_0004 (2).jpg,43861أ40,43861أ40,True,0.0
+..\maroc_car\dataset\IMG_0005 (3).jpg,83416أ40,83416أ40,True,0.0
+..\maroc_car\dataset\IMG_0006 (4).jpg,71647ب40,71647ب40,True,0.0
+..\maroc_car\dataset\IMG_0007.jpg,52256أ40,52256أ40,True,0.0
+..\maroc_car\dataset\IMG_0009 (2).jpg,74750ب40,74750ب40,True,0.0
+..\maroc_car\dataset\IMG_0010 (3).jpg,40122و6,40122و6,True,0.0
+..\maroc_car\dataset\IMG_0011 (4).jpg,37333أ6,37333أ6,True,0.0
+..\maroc_car\dataset\IMG_0012.jpg,72218ب40,72218ب40,True,0.0
+..\maroc_car\dataset\IMG_0014 (2).jpg,8251أ2,8251أ2,True,0.0
+..\maroc_car\dataset\IMG_0015 (3).jpg,21583أ48,21583أ40,False,0.125
+..\maroc_car\dataset\IMG_0016 (4).jpg,5610أ40,5610أ40,True,0.0
+..\maroc_car\dataset\IMG_0017.jpg,35712أ59,35712أ59,True,0.0
+..\maroc_car\dataset\IMG_0019 (3).jpg,56265ب40,56265ب40,True,0.0
+..\maroc_car\dataset\IMG_0020 (4).jpg,71252أ40,3935أ40,False,0.5
+..\maroc_car\dataset\IMG_0021.jpg,7479أ13,7479أ13,True,0.0
+..\maroc_car\dataset\IMG_0023 (2).jpg,19866أ49,19866أ40,False,0.125
+..\maroc_car\dataset\IMG_0024 (3).jpg,1082أ40,1082أ40,True,0.0
+..\maroc_car\dataset\IMG_0025.jpg,75975ب40,75975ب40,True,0.0
+..\maroc_car\dataset\IMG_0026.jpg,75975ب40,75975ب40,True,0.0
+..\maroc_car\dataset\IMG_0028 (2).jpg,1678و1,1678د1,False,0.16666666666666666
+..\maroc_car\dataset\IMG_0029 (3).jpg,76039ب40,76039ب40,True,0.0
+..\maroc_car\dataset\IMG_0030 (4).jpg,31789ھ6,31789ب6,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0031.jpg,98757أ8,98757أ8,True,0.0
+..\maroc_car\dataset\IMG_0033 (2).jpg,53603أ33,53603أ13,False,0.125
+..\maroc_car\dataset\IMG_0034 (4).jpg,32843أ40,37843أ40,False,0.125
+..\maroc_car\dataset\IMG_0035.jpg,36526أ10,36526أ10,True,0.0
+..\maroc_car\dataset\IMG_0037 (3).jpg,95417أ40,95417أ40,True,0.0
+..\maroc_car\dataset\IMG_0038 (4).jpg,32843أ40,32843أ40,True,0.0
+..\maroc_car\dataset\IMG_0039.jpg,1413أ75,1413أ75,True,0.0
+..\maroc_car\dataset\IMG_0041 (2).jpg,23540أ72,23540أ72,True,0.0
+..\maroc_car\dataset\IMG_0042 (3).jpg,59915أ6,59915أ4,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0043 (4).jpg,22973أ11,27573أ41,False,0.375
+..\maroc_car\dataset\IMG_0044.jpg,40957ب40,40957ب40,True,0.0
+..\maroc_car\dataset\IMG_0046 (2).jpg,7973أ72,7973أ72,True,0.0
+..\maroc_car\dataset\IMG_0047 (3).jpg,79064ب40,19064ب40,False,0.125
+..\maroc_car\dataset\IMG_0048 (4).jpg,48305أ44,48305أ44,True,0.0
+..\maroc_car\dataset\IMG_0049.jpg,73638أ8,73638أ8,True,0.0
+..\maroc_car\dataset\IMG_0051 (2).jpg,31865ب15,31865ب15,True,0.0
+..\maroc_car\dataset\IMG_0052 (3).jpg,68479أ40,68479أ40,True,0.0
+..\maroc_car\dataset\IMG_0053 (4).jpg,24398أ13,24398أ3,False,0.125
+..\maroc_car\dataset\IMG_0054.jpg,383ب59,383ب59,True,0.0
+..\maroc_car\dataset\IMG_0056 (2).jpg,82926أ40,82926أ40,True,0.0
+..\maroc_car\dataset\IMG_0057 (3).jpg,27665أ55,27665أ45,False,0.125
+..\maroc_car\dataset\IMG_0058 (4).jpg,27458أ40,27458أ40,True,0.0
+..\maroc_car\dataset\IMG_0060 (2).jpg,78342ب40,78342ب40,True,0.0
+..\maroc_car\dataset\IMG_0061.jpg,21850ب40,21850ب40,True,0.0
+..\maroc_car\dataset\IMG_0063 (3).jpg,73271ھ6,73271و6,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0065 (2).jpg,17514أ4,17514أ44,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0066.jpg,20795ب40,20795ب40,True,0.0
+..\maroc_car\dataset\IMG_0068 (3).jpg,64574أ13,64574أ13,True,0.0
+..\maroc_car\dataset\IMG_0070.jpg,97031أ40,97031أ40,True,0.0
+..\maroc_car\dataset\IMG_0073 (2).jpg,16455ب40,16455ب40,True,0.0
+..\maroc_car\dataset\IMG_0075.jpg,73899ب40,73899ب40,True,0.0
+..\maroc_car\dataset\IMG_0078 (2).jpg,28686ب40,20686ب40,False,0.125
+..\maroc_car\dataset\IMG_0080.jpg,25962أ72,25962أ72,True,0.0
+..\maroc_car\dataset\IMG_0083 (2).jpg,46317ب40,46313ب40,False,0.125
+..\maroc_car\dataset\IMG_0085.jpg,80552أ15,80552أ15,True,0.0
+..\maroc_car\dataset\IMG_0088 (2).jpg,885ب40,885ب40,True,0.0
+..\maroc_car\dataset\IMG_0090.jpg,21076أ40,21076أ40,True,0.0
+..\maroc_car\dataset\IMG_0093 (2).jpg,6362أ40,6362أ40,True,0.0
+..\maroc_car\dataset\IMG_0096.jpg,72704ب40,72704ب40,True,0.0
+..\maroc_car\dataset\IMG_0101.jpg,55346ب40,55346ب40,True,0.0
+..\maroc_car\dataset\IMG_0106.jpg,35308ب40,35308ب40,True,0.0
+..\maroc_car\dataset\IMG_0111.jpg,87005د1,87005د1,True,0.0
+..\maroc_car\dataset\IMG_0120.jpg,19941أ26,19941أ26,True,0.0
+..\maroc_car\dataset\IMG_0125.jpg,72704ب40,72704ب40,True,0.0
+..\maroc_car\dataset\IMG_0130.jpg,77120ب40,77120ب40,True,0.0
+..\maroc_car\dataset\IMG_0135.jpg,35308ب40,35308ب40,True,0.0
+..\maroc_car\dataset\IMG_0140.jpg,18477أ72,18477أ72,True,0.0
+..\maroc_car\dataset\IMG_0149.jpg,19941أ26,19941أ26,True,0.0
+..\maroc_car\dataset\IMG_0154.jpg,46195ب40,46195ب40,True,0.0
+..\maroc_car\dataset\IMG_0159.jpg,49465أ40,49465أ40,True,0.0
+..\maroc_car\dataset\IMG_0164.jpg,52672ب40,52672ب40,True,0.0
+..\maroc_car\dataset\IMG_0169.jpg,46654أ10,46654أ40,False,0.125
+..\maroc_car\dataset\IMG_0176.jpg,71636أ59,71636أ59,True,0.0
+..\maroc_car\dataset\IMG_0181.jpg,76362أ40,76362أ40,True,0.0
+..\maroc_car\dataset\IMG_0186.jpg,67532ب40,67532ب40,True,0.0
+..\maroc_car\dataset\IMG_0191.jpg,58614و6,58614و6,True,0.0
+..\maroc_car\dataset\IMG_0196.jpg,54424ب40,54424ب40,True,0.0
+..\maroc_car\dataset\IMG_0201.jpg,9395ھ1,93951,False,0.16666666666666666
+..\maroc_car\dataset\IMG_0206.jpg,45451ب40,45451ب40,True,0.0
+..\maroc_car\dataset\IMG_0211.jpg,45703ھ6,457036,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0216.jpg,58281و6,58281و6,True,0.0
+..\maroc_car\dataset\IMG_0221.jpg,22925أ6,22925أ6,True,0.0
+..\maroc_car\dataset\IMG_0228.jpg,17398أ57,17398أ57,True,0.0
+..\maroc_car\dataset\IMG_0233.jpg,79978ب40,79978ب40,True,0.0
+..\maroc_car\dataset\IMG_0238.jpg,68406ھ1,84061,False,0.2857142857142857
+..\maroc_car\dataset\IMG_0243.jpg,68418ب1,68418ب1,True,0.0
+..\maroc_car\dataset\IMG_0248.jpg,20017أ42,20017أ42,True,0.0
+..\maroc_car\dataset\IMG_0253.jpg,19370ب72,19370ب72,True,0.0
+..\maroc_car\dataset\IMG_0258.jpg,30790أ61,30790أ6,False,0.125
+..\maroc_car\dataset\IMG_0263.jpg,99129أ26,99129أ26,True,0.0
+..\maroc_car\dataset\IMG_0268.jpg,19818ب40,19818ب40,True,0.0
+..\maroc_car\dataset\IMG_0273.jpg,30427ب40,30427ب40,True,0.0
+..\maroc_car\dataset\IMG_0278.jpg,59633أ40,59633أ40,True,0.0
+..\maroc_car\dataset\IMG_0283.jpg,49614أ59,49614أ59,True,0.0
+..\maroc_car\dataset\IMG_0288.jpg,586ب40,586ب40,True,0.0
+..\maroc_car\dataset\IMG_0293.jpg,14459ب40,14459ب40,True,0.0
+..\maroc_car\dataset\IMG_0298.jpg,69437ب40,69437ب40,True,0.0
+..\maroc_car\dataset\IMG_0303.jpg,22264ب40,22264ب40,True,0.0
+..\maroc_car\dataset\IMG_0308.jpg,15557أ45,15557أ45,True,0.0
+..\maroc_car\dataset\IMG_0316.jpg,84630أ40,84630أ40,True,0.0
+..\maroc_car\dataset\IMG_0321.jpg,19031أ61,19031أ61,True,0.0
+..\maroc_car\dataset\IMG_0326.jpg,76835أ40,76835أ40,True,0.0
+..\maroc_car\dataset\IMG_0331.jpg,12777د8,12777د8,True,0.0
+..\maroc_car\dataset\IMG_0340.jpg,6839ب40,6839ب40,True,0.0
+..\maroc_car\dataset\IMG_0345.jpg,5308و1,5308د1,False,0.16666666666666666
+..\maroc_car\dataset\IMG_0350.jpg,62256ھ1,28ب7,False,0.8571428571428571
+..\maroc_car\dataset\IMG_0356.jpg,14689أ42,14689أ42,True,0.0
+..\maroc_car\dataset\IMG_0361.jpg,2488ب40,2488ب40,True,0.0
+..\maroc_car\dataset\IMG_0366.jpg,43302أ1,43302أ1,True,0.0
+..\maroc_car\dataset\IMG_0372.jpg,17257ب72,17257ب72,True,0.0
+..\maroc_car\dataset\IMG_0377.jpg,98728أ40,98728أ40,True,0.0
+..\maroc_car\dataset\IMG_0382.jpg,64017ب40,64017ب40,True,0.0
+..\maroc_car\dataset\IMG_0387.jpg,60167ب40,60167ب40,True,0.0
+..\maroc_car\dataset\IMG_0392.jpg,89150أ1,89150أ1,True,0.0
+..\maroc_car\dataset\IMG_0397.jpg,11077أ4,58077أ6,False,0.42857142857142855
+..\maroc_car\dataset\IMG_0403.jpg,22718ب40,122718ب40,False,0.125
+..\maroc_car\dataset\IMG_0410.jpg,11077أ4,37077أ42,False,0.42857142857142855
+..\maroc_car\dataset\IMG_0415.jpg,77236ب40,7736ب40,False,0.125
+..\maroc_car\dataset\IMG_0421.jpg,20714أ48,20714أ40,False,0.125
+..\maroc_car\dataset\IMG_0426.jpg,45869أ10,45869أ40,False,0.125
+..\maroc_car\dataset\IMG_0431.jpg,77236ب40,77236ب40,True,0.0
+..\maroc_car\dataset\IMG_0436.jpg,25617ب40,25617ب40,True,0.0
+..\maroc_car\dataset\IMG_0444.jpg,23657أ40,23657أ40,True,0.0
+..\maroc_car\dataset\IMG_0449.jpg,45858أ72,45858أ72,True,0.0
+..\maroc_car\dataset\IMG_0458.jpg,61854ب40,61854ب40,True,0.0
+..\maroc_car\dataset\IMG_0463.jpg,85846ھ6,8584666,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0468.jpg,2734ھ1,8134د1,False,0.5
+..\maroc_car\dataset\IMG_0476.jpg,76665ب1,78665ب1,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0481.jpg,24792أ40,24792أ40,True,0.0
+..\maroc_car\dataset\IMG_0487.jpg,96023أ40,96023أ40,True,0.0
+..\maroc_car\dataset\IMG_0492.jpg,81161د6,81161د6,True,0.0
+..\maroc_car\dataset\IMG_0498.jpg,81161د6,81161د6,True,0.0
+..\maroc_car\dataset\IMG_0503.jpg,754ب50,754ب40,False,0.16666666666666666
+..\maroc_car\dataset\IMG_0508.jpg,43351ب6,43351ب6,True,0.0
+..\maroc_car\dataset\IMG_0513.jpg,31985أ72,31985أ72,True,0.0
+..\maroc_car\dataset\IMG_0518.jpg,47980ب8,47980ب0,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0523.jpg,45594أ6,45594أ6,True,0.0
+..\maroc_car\dataset\IMG_0528.jpg,28148أ13,28148أ13,True,0.0
+..\maroc_car\dataset\IMG_0533.jpg,26305أ61,26305أ61,True,0.0
+..\maroc_car\dataset\IMG_0540.jpg,511أ75,511أ15,False,0.16666666666666666
+..\maroc_car\dataset\IMG_0547.jpg,7672أ75,7672أ75,True,0.0
+..\maroc_car\dataset\IMG_0553.jpg,60228أ40,60228أ40,True,0.0
+..\maroc_car\dataset\IMG_0558.jpg,17236ب7,17236ب7,True,0.0
+..\maroc_car\dataset\IMG_0567.jpg,82750أ40,82750أ40,True,0.0
+..\maroc_car\dataset\IMG_0572.jpg,52603ب1,526031,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0577.jpg,51029ب40,51029ب40,True,0.0
+..\maroc_car\dataset\IMG_0582.jpg,87519أ15,87519أ15,True,0.0
+..\maroc_car\dataset\IMG_0587.jpg,4443ب72,4443ب72,True,0.0
+..\maroc_car\dataset\IMG_0592.jpg,31494أ40,31494أ40,True,0.0
+..\maroc_car\dataset\IMG_0597.jpg,19600ب40,19600ب40,True,0.0
+..\maroc_car\dataset\IMG_0602.jpg,8774أ2,8774أ2,True,0.0
+..\maroc_car\dataset\IMG_0607.jpg,18400ب15,78288ب4,False,0.75
+..\maroc_car\dataset\IMG_0612.jpg,2135ب15,2138ب10,False,0.2857142857142857
+..\maroc_car\dataset\IMG_0617.jpg,68812د6,68812أ4,False,0.2857142857142857
+..\maroc_car\dataset\IMG_0622.jpg,68333أ50,60333أ40,False,0.25
+..\maroc_car\dataset\IMG_0627.jpg,69192أ26,69192أ40,False,0.25
+..\maroc_car\dataset\IMG_0632.jpg,7854ب40,7854ب40,True,0.0
+..\maroc_car\dataset\IMG_0637.jpg,25087ب40,25087ب40,True,0.0
+..\maroc_car\dataset\IMG_0642.jpg,28056ب1,28056أب1,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0647.jpg,19824أ57,19824أ57,True,0.0
+..\maroc_car\dataset\IMG_0652.jpg,57728أ40,57728أ40,True,0.0
+..\maroc_car\dataset\IMG_0657.jpg,25189ب40,25189ب40,True,0.0
+..\maroc_car\dataset\IMG_0662.jpg,14449ب40,34428ب4,False,0.5
+..\maroc_car\dataset\IMG_0667.jpg,10092ب40,22792ب40,False,0.375
+..\maroc_car\dataset\IMG_0672.jpg,31545أ40,31545أ40,True,0.0
+..\maroc_car\dataset\IMG_0677.jpg,21568أ4,21568أ4,True,0.0
+..\maroc_car\dataset\IMG_0682.jpg,41580د1,41580د1,True,0.0
+..\maroc_car\dataset\IMG_0687.jpg,72574ب40,3574ب40,False,0.25
+..\maroc_car\dataset\IMG_0692.jpg,78554ب40,7898ب40,False,0.375
+..\maroc_car\dataset\IMG_0697.jpg,92167ب8,82167ب6,False,0.2857142857142857
+..\maroc_car\dataset\IMG_0702.jpg,2266ب40,2266ب40,True,0.0
+..\maroc_car\dataset\IMG_0708.jpg,11487ب40,7182ب40,False,0.375
+..\maroc_car\dataset\IMG_0713.jpg,59855ب40,59855ب4,False,0.125
+..\maroc_car\dataset\IMG_0718.jpg,99744أ40,39744أ40,False,0.125
+..\maroc_car\dataset\IMG_0723.jpg,96780أ1,96780أ1,True,0.0
+..\maroc_car\dataset\IMG_0728.jpg,58121ھ1,58121د1,False,0.14285714285714285
+..\maroc_car\dataset\IMG_0733.jpg,55704ب40,55704ب40,True,0.0
+..\maroc_car\dataset\IMG_0738.jpg,8808ب7,8888ب1,False,0.3333333333333333
+..\maroc_car\dataset\IMG_0743.jpg,99999أ40,89909أ40,False,0.25
+..\maroc_car\dataset\IMG_0748.jpg,43514ھ1,435141,False,0.14285714285714285
+..\maroc_car\dataset\PHOTO-2020-07-04-22-40-53.jpg,21343أ17,21343أ17,True,0.0
+..\maroc_car\dataset\PHOTO-2020-07-04-22-41-20.jpg,13002أ17,43002أ72,False,0.375
+..\maroc_car\dataset\VID-20200725-WA0336 01 (2).jpg,57155و6,57155أ69,False,0.2857142857142857
+..\maroc_car\dataset\VID-20200725-WA0340 2.jpg,73302ب40,73302ب40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0345 04.jpg,15955أ45,15955أ5,False,0.125
+..\maroc_car\dataset\VID-20200725-WA0346 07.jpg,65361ب40,65361ب40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0347 20.jpg,14342أ40,14342أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0349 10.jpg,94687أ40,94687أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0352 1.jpg,57952ب40,157952ب40,False,0.125
+..\maroc_car\dataset\VID-20200725-WA0360 4.jpg,43034ب40,43034ب40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0361 14.jpg,45097ب6,45097ب6,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0367 1.jpg,96693أ40,96693أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0372 02.jpg,95845أ40,95845أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0376 4.jpg,45878ب40,45878ب40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0380 01.jpg,88307أ40,88307أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0381 15.jpg,69988ب8,69988ب8,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0384 08.jpg,46604أ40,46604أ40,True,0.0
+..\maroc_car\dataset\VID-20200725-WA0386 03.jpg,3288أ41,3208أ41,False,0.14285714285714285
+..\maroc_car\dataset\VID-20200725-WA0388 04.jpg,73916ب40,7916ب40,False,0.125
+..\maroc_car\dataset\y (11).jpg,23997أ14,23997أ14,True,0.0
+..\maroc_car\dataset\y (16).jpg,44571أ7,44571أ7,True,0.0
+..\maroc_car\dataset\y (20).jpg,10065أ56,10065أ56,True,0.0
+..\maroc_car\dataset\y (25).jpg,43773أ15,4373أ15,False,0.125
+..\maroc_car\dataset\y (3).jpg,43059ھ1,430591,False,0.14285714285714285
+..\maroc_car\dataset\y (34).jpg,18161أ14,18161أ14,True,0.0
+..\maroc_car\dataset\y (39).jpg,61836ھ1,618361,False,0.14285714285714285
+..\maroc_car\dataset\y (43).jpg,24911ھ1,241,False,0.5714285714285714
+..\maroc_car\dataset\y (48).jpg,7375أ50,7375أ40,False,0.14285714285714285
+..\maroc_car\dataset\y (52).jpg,91695أ40,91695أ40,True,0.0
+..\maroc_car\dataset\y (57).jpg,37947أ6,37947أ6,True,0.0
+..\maroc_car\dataset\y (9).jpg,60293ب1,60293ب1,True,0.0

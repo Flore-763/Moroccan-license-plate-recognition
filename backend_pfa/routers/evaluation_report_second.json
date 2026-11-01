@@ -1,0 +1,436 @@
+{
+  "spatial_metrics": {
+    "frames_analyzed": [
+      30,
+      37,
+      39,
+      51,
+      54,
+      61,
+      138,
+      251,
+      259,
+      266
+    ],
+    "total_frames": 10,
+    "total_predictions": 10,
+    "total_gt_in_these_frames": 22,
+    "tp": 1,
+    "fn": 21,
+    "fp": 9,
+    "precision": 0.1,
+    "recall": 0.045454545454545456,
+    "f1_score": 0.06250000000000001,
+    "frame_details": [
+      {
+        "frame": 30,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 1,
+            "gt_text": "48327ﺏ72",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "1533 ھ 6",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 37,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 1,
+            "gt_text": "48327ﺏ72",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "6739 د 7",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 39,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 1,
+            "gt_text": "48327ﺏ72",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "5336",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 51,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "253 أ 59",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 54,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "18177 أ 33",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 61,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 0,
+            "gt_text": "18177ﺃ33",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "679 أ 52",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 138,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 4,
+            "gt_text": "34938ﻭ1",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "34938 1 ﻭ",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 251,
+        "n_gt": 3,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 3,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 5,
+            "gt_text": "13654ﺏ8",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 7,
+            "gt_text": "60084ﺃ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "13654 ب 8",
+            "is_false_positive": true
+          }
+        ]
+      },
+      {
+        "frame": 259,
+        "n_gt": 3,
+        "n_pred": 1,
+        "tp": 1,
+        "fn": 2,
+        "fp": 0,
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "associations": [
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 5,
+            "gt_text": "13654ﺏ8",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 7,
+            "gt_text": "60084ﺃ6",
+            "pred_text": "60084 أ 6",
+            "iou": 0.5468989702077975,
+            "similarity": 1.0,
+            "correct": true
+          }
+        ]
+      },
+      {
+        "frame": 266,
+        "n_gt": 2,
+        "n_pred": 1,
+        "tp": 0,
+        "fn": 2,
+        "fp": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "associations": [
+          {
+            "gt_plate_id": 2,
+            "gt_text": "1533ﻫ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "gt_plate_id": 7,
+            "gt_text": "60084ﺃ6",
+            "pred_text": "",
+            "correct": false,
+            "not_detected": true
+          },
+          {
+            "pred_text": "80084 و 6",
+            "is_false_positive": true
+          }
+        ]
+      }
+    ]
+  },
+  "ocr_metrics": {
+    "total_ocr_readings": 10,
+    "correct_readings": 4,
+    "incorrect_readings": 6,
+    "ocr_accuracy": 0.4,
+    "total_gt_plates": 8,
+    "detected_gt_plates": 4,
+    "undetected_gt_plates": [
+      "9224ﺏ72",
+      "48327ﺏ72",
+      "13838ﻭ6",
+      "1533ﻫ6"
+    ],
+    "correct_details": [
+      {
+        "track_id": 3,
+        "prediction": "18177 أ 33",
+        "matched_with": "18177ﺃ33",
+        "similarity": 1.0,
+        "confiance": 0.9742,
+        "frame": 54
+      },
+      {
+        "track_id": 72,
+        "prediction": "34938 1 ﻭ",
+        "matched_with": "34938ﻭ1",
+        "similarity": 0.8571428571428571,
+        "confiance": 0.9842,
+        "frame": 138
+      },
+      {
+        "track_id": 105,
+        "prediction": "13654 ب 8",
+        "matched_with": "13654ﺏ8",
+        "similarity": 1.0,
+        "confiance": 0.9894,
+        "frame": 251
+      },
+      {
+        "track_id": 110,
+        "prediction": "60084 أ 6",
+        "matched_with": "60084ﺃ6",
+        "similarity": 1.0,
+        "confiance": 0.9965,
+        "frame": 259
+      }
+    ],
+    "incorrect_details": [
+      {
+        "track_id": 25,
+        "prediction": "1533 ھ 6",
+        "best_match": "1533ﻫ6",
+        "similarity": 0.8333333333333334,
+        "confiance": 0.9858,
+        "frame": 30
+      },
+      {
+        "track_id": 32,
+        "prediction": "6739 د 7",
+        "best_match": "34938ﻭ1",
+        "similarity": 0.3076923076923077,
+        "confiance": 0.8862,
+        "frame": 37
+      },
+      {
+        "track_id": 33,
+        "prediction": "5336",
+        "best_match": "1533ﻫ6",
+        "similarity": 0.8,
+        "confiance": 0.6754,
+        "frame": 39
+      },
+      {
+        "track_id": 14,
+        "prediction": "253 أ 59",
+        "best_match": "1533ﻫ6",
+        "similarity": 0.3333333333333333,
+        "confiance": 0.9716,
+        "frame": 51
+      },
+      {
+        "track_id": 46,
+        "prediction": "679 أ 52",
+        "best_match": "13654ﺏ8",
+        "similarity": 0.3076923076923077,
+        "confiance": 0.929,
+        "frame": 61
+      },
+      {
+        "track_id": 111,
+        "prediction": "80084 و 6",
+        "best_match": "60084ﺃ6",
+        "similarity": 0.7142857142857143,
+        "confiance": 0.9729,
+        "frame": 266
+      }
+    ]
+  }
+}

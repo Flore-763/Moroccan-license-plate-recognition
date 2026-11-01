@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+ENV/
+pfa_venv/
+backend_pfa/.benv/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / Vite frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Databases and local state
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Machine learning artifacts (sauf les modèles source dans models/ et ONNX de la démo)
+*.pt
+*.pth
+*.onnx
+*.keras
+*.h5
+*.tflite
+!models/*.pt
+!models/*.keras
+!frontend/public/models/*.onnx
+**/runs/
+**/outputs/
+**/checkpoints/
+**/weights/
+**/tensorboard/
+**/wandb/
+**/mlruns/
+
+# Large/generated datasets and media used during experiments
+model/yolo_existing_labels/data/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+backend_pfa/plate.py
+
+# Generated reports from evaluation scripts
+# backend_pfa/routers/*_report.json
+# backend_pfa/routers/evaluation_report*.json
+# backend_pfa/routers/sharpness_analysis.json
+# backend_pfa/routers/performance_*.png
+# backend_pfa/routers/sharpness_*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Editors and IDEs
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

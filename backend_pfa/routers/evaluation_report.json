@@ -1,0 +1,8615 @@
+{
+  "frame_metrics": {
+    "precision": 0.1,
+    "recall": 0.0016891891891891893,
+    "f1_score": 0.0033222591362126247,
+    "tp": 1,
+    "fn": 591,
+    "fp": 9
+  },
+  "plate_metrics": {
+    "plate_accuracy": 1.0,
+    "total_plates_gt": 8,
+    "detected_plates": 1,
+    "correctly_recognized": 1,
+    "undetected_plates_count": 7,
+    "undetected_plates": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "per_plate_results": [
+      {
+        "plate_id": 7,
+        "gt_text": "60084ﺃ6",
+        "pred_text": "60084 أ 6",
+        "similarity": 1.0,
+        "correct": true,
+        "best_confiance": 0.9965,
+        "n_detections": 1
+      }
+    ]
+  },
+  "tracking_metrics": {
+    "total_id_switches": 0,
+    "tracks_with_switches": 0,
+    "total_tracks": 1,
+    "per_plate_history": {
+      "7": {
+        "last_track_id": 110,
+        "switches": 0,
+        "frames": [
+          259
+        ]
+      }
+    }
+  },
+  "frame_details": [
+    {
+      "frame": 0,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 0,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 0,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 1,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 1,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 2,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 2,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 3,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 3,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 4,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 4,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 5,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 5,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 6,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 6,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 7,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 7,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 8,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 8,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 9,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 9,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 10,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 10,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 11,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 11,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 12,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 12,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 13,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 13,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 14,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 14,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 15,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 15,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 16,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 16,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 17,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 17,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 18,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 18,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 19,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 19,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 20,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 20,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 21,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 21,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 22,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 22,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 23,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 23,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 24,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 24,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 25,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 25,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 26,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 26,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 27,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 27,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 28,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 28,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 29,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 29,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 30,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 30,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 30,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "1533 ھ 6",
+          "confiance": 0.9858,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 31,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 31,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 32,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 32,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 33,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 33,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 34,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 34,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 35,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 35,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 36,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 36,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 37,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 37,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 37,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "6739 د 7",
+          "confiance": 0.8862,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 38,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 38,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 39,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 39,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 39,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "5336",
+          "confiance": 0.6754,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 40,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 40,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 40,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 41,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 41,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 41,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 42,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 42,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 42,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 43,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 43,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 43,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 44,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 44,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 44,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 45,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 45,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 45,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 46,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 46,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 46,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 47,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 47,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 47,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 48,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 48,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 48,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 49,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 49,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 49,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 50,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 50,
+          "gt_plate_id": 1,
+          "gt_text": "48327ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 50,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 51,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 51,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 51,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "253 أ 59",
+          "confiance": 0.9716,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 52,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 52,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 53,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 53,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 54,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 54,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 54,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "18177 أ 33",
+          "confiance": 0.9742,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 55,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 55,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 56,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 56,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 57,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 57,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 58,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 58,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 59,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 59,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 60,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 60,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 61,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 61,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 61,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "679 أ 52",
+          "confiance": 0.929,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 62,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 62,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 63,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 63,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 64,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 64,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 65,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 65,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 66,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 66,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 67,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 67,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 68,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 68,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 69,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 69,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 70,
+          "gt_plate_id": 0,
+          "gt_text": "18177ﺃ33",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 70,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 71,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 72,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 73,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 74,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 75,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 76,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 77,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 78,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 79,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 80,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 81,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 82,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 83,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 84,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 85,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 86,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 87,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 88,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 89,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 90,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 90,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 91,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 91,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 92,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 92,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 93,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 93,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 94,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 94,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 95,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 95,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 96,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 96,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 97,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 97,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 98,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 98,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 99,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 99,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 100,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 100,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 101,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 102,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 103,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 104,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 105,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 106,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 107,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 108,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 109,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 110,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 110,
+          "gt_plate_id": 3,
+          "gt_text": "9224ﺏ72",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 111,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 112,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 113,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 114,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 115,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 116,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 117,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 118,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 119,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 120,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 120,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 121,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 121,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 122,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 122,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 123,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 123,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 124,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 124,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 125,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 125,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 126,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 126,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 127,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 127,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 128,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 128,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 129,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 129,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 130,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 130,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 131,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 131,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 132,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 132,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 133,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 133,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 134,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 134,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 135,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 135,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 136,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 136,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 137,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 137,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 138,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 138,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 138,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "34938 د 1",
+          "confiance": 0.9842,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 139,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 139,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 140,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 140,
+          "gt_plate_id": 4,
+          "gt_text": "34938ﻭ1",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 141,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 142,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 143,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 144,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 145,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 146,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 146,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 147,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 148,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 148,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 149,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 149,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 150,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 151,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 152,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 153,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 154,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 155,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 156,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 157,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 158,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 159,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 160,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 161,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 162,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 163,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 164,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 165,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 166,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 167,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 168,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 169,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 170,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 171,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 172,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 173,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 174,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 175,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 176,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 177,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 178,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 179,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 180,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 180,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 181,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 181,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 181,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 182,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 182,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 182,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 183,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 183,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 183,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 184,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 184,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 184,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 185,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 185,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 185,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 186,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 186,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 186,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 187,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 187,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 187,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 188,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 188,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 188,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 189,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 189,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 189,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 190,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 190,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 190,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 191,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 191,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 191,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 192,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 192,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 192,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 193,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 193,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 193,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 194,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 194,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 194,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 195,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 195,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 195,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 196,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 196,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 196,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 197,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 197,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 197,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 198,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 198,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 198,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 199,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 199,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 199,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 200,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 200,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 200,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 200,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 201,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 201,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 201,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 201,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 202,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 202,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 202,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 202,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 203,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 203,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 203,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 203,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 204,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 204,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 204,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 204,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 205,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 205,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 205,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 205,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 206,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 206,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 206,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 206,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 207,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 207,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 207,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 207,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 208,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 208,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 208,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 208,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 209,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 209,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 209,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 209,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 210,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 210,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 210,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 210,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 211,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 211,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 211,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 211,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 212,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 212,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 212,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 212,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 213,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 213,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 213,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 213,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 214,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 214,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 214,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 214,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 215,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 215,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 215,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 215,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 216,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 216,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 216,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 216,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 217,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 217,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 217,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 217,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 218,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 218,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 218,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 218,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 219,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 219,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 219,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 219,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 220,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 220,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 220,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 220,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 221,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 221,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 221,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 221,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 222,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 222,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 222,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 222,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 223,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 223,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 223,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 223,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 224,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 224,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 224,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 224,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 225,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 225,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 225,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 225,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 226,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 226,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 226,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 226,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 227,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 227,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 227,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 227,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 228,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 228,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 228,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 228,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 229,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 229,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 229,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 229,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 230,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 230,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 230,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 230,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 231,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 231,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 231,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 231,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 232,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 232,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 232,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 232,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 233,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 233,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 233,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 233,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 234,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 234,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 234,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 234,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 235,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 235,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 235,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 235,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 236,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 236,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 236,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 236,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 237,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 237,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 237,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 237,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 238,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 238,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 238,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 238,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 239,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 239,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 239,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 239,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "tp": 0,
+      "fn": 4,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 240,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 240,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 240,
+          "gt_plate_id": 6,
+          "gt_text": "13838ﻭ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 240,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 241,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 241,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 241,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 241,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 242,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 242,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 242,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 242,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 243,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 243,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 243,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 243,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 244,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 244,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 244,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 244,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 245,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 245,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 245,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 245,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 246,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 246,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 246,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 246,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 247,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 247,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 247,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 247,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 248,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 248,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 248,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 248,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 249,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 249,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 249,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 249,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 250,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 250,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 250,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 250,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 251,
+      "tp": 0,
+      "fn": 3,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 251,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 251,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 251,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 251,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "13654 ب 8",
+          "confiance": 0.9894,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 252,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 252,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 252,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 252,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 253,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 253,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 253,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 253,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 254,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 254,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 254,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 254,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 255,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 255,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 255,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 255,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 256,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 256,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 256,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 256,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 257,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 257,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 257,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 257,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 258,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 258,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 258,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 258,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 259,
+      "tp": 1,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "recall": 0.3333333333333333,
+      "associations": [
+        {
+          "frame": 259,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 259,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 259,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "60084 أ 6",
+          "confiance": 0.9965,
+          "iou": 0.5468989702077975,
+          "plate_track_id": 110,
+          "car_track_id": 52,
+          "ocr_correct": true
+        }
+      ]
+    },
+    {
+      "frame": 260,
+      "tp": 0,
+      "fn": 3,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 260,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 260,
+          "gt_plate_id": 5,
+          "gt_text": "13654ﺏ8",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 260,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 261,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 261,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 261,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 262,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 262,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 262,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 263,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 263,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 263,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 264,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 264,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 264,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 265,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 265,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 265,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 266,
+      "tp": 0,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 266,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 266,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 266,
+          "gt_plate_id": null,
+          "gt_text": null,
+          "pred_text": "80084 و 6",
+          "confiance": 0.9729,
+          "iou": 0,
+          "is_false_positive": true
+        }
+      ]
+    },
+    {
+      "frame": 267,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 267,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 267,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 268,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 268,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 268,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 269,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 269,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 269,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 270,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 270,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 271,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 271,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 271,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 272,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 272,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 272,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 273,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 273,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 273,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 274,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 274,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 274,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 275,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 275,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 275,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 276,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 276,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 276,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 277,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 277,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 277,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 278,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 278,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 278,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 279,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 279,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 279,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 280,
+      "tp": 0,
+      "fn": 2,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 280,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        },
+        {
+          "frame": 280,
+          "gt_plate_id": 7,
+          "gt_text": "60084ﺃ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 281,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 281,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 282,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 282,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 283,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 283,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 284,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 284,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 285,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 285,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 286,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 286,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 287,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 287,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 288,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 288,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 289,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 289,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 290,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 290,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 291,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 291,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 292,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 292,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 293,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 293,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 294,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 294,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 295,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 295,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 296,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 296,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 297,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 297,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 298,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 298,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 299,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 299,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 300,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 300,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 301,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 301,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 302,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 302,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 303,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 303,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 304,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 304,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 305,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 305,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 306,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 306,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 307,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 307,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 308,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 308,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 309,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 309,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 310,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 310,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 311,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 311,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 312,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 312,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    },
+    {
+      "frame": 313,
+      "tp": 0,
+      "fn": 1,
+      "fp": 0,
+      "precision": 0,
+      "recall": 0.0,
+      "associations": [
+        {
+          "frame": 313,
+          "gt_plate_id": 2,
+          "gt_text": "1533ﻫ6",
+          "pred_text": "",
+          "confiance": 0,
+          "iou": 0,
+          "matched": false
+        }
+      ]
+    }
+  ],
+  "plate_details": [
+    {
+      "plate_id": 7,
+      "gt_text": "60084ﺃ6",
+      "pred_text": "60084 أ 6",
+      "similarity": 1.0,
+      "correct": true,
+      "best_confiance": 0.9965,
+      "n_detections": 1
+    }
+  ]
+}

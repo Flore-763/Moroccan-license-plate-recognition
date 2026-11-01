@@ -1,0 +1,56 @@
+[
+  {
+    "sharpness_threshold": 30,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 101.73949837684631,
+    "score": 0.09829024282152134
+  },
+  {
+    "sharpness_threshold": 50,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 102.39616394042969,
+    "score": 0.09765990848854095
+  },
+  {
+    "sharpness_threshold": 70,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 102.13644576072693,
+    "score": 0.09790824348271142
+  },
+  {
+    "sharpness_threshold": 100,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 102.16980695724487,
+    "score": 0.09787627380156168
+  },
+  {
+    "sharpness_threshold": 120,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 101.8831079006195,
+    "score": 0.09815169762738651
+  },
+  {
+    "sharpness_threshold": 150,
+    "detections_count": 10,
+    "total_crops_analyzed": 36,
+    "avg_sharpness": 617.8199999999999,
+    "avg_confiance": 0.9365199999999998,
+    "processing_time": 101.26102805137634,
+    "score": 0.09875467583566647
+  }
+]

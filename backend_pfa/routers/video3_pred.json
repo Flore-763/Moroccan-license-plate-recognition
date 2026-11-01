@@ -1,0 +1,220 @@
+{
+  "success": true,
+  "frames_analysed": 314,
+  "frames_total": 314,
+  "fps": 23,
+  "tracks_total": 18,
+  "plates_count": 10,
+  "detections": [
+    {
+      "plate_track_id": 25,
+      "car_track_id": 6,
+      "immatriculation": "1533 ھ 6",
+      "confiance": 0.9858,
+      "votes": 3,
+      "sharpness_max": 124,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 30,
+      "timestamp": 1.3,
+      "timestamp_fmt": "00:01",
+      "bbox": [
+        2276,
+        1088,
+        2535,
+        1162
+      ]
+    },
+    {
+      "plate_track_id": 32,
+      "car_track_id": 8,
+      "immatriculation": "6739 د 7",
+      "confiance": 0.8862,
+      "votes": 1,
+      "sharpness_max": 1209.6,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 37,
+      "timestamp": 1.61,
+      "timestamp_fmt": "00:01",
+      "bbox": [
+        2072,
+        1203,
+        2529,
+        1280
+      ],
+      "should_merge_with": 8
+    },
+    {
+      "plate_track_id": 33,
+      "car_track_id": 6,
+      "immatriculation": "5336",
+      "confiance": 0.6754,
+      "votes": 1,
+      "sharpness_max": 279.1,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 39,
+      "timestamp": 1.7,
+      "timestamp_fmt": "00:01",
+      "bbox": [
+        1896,
+        973,
+        2059,
+        1029
+      ],
+      "should_merge_with": 25
+    },
+    {
+      "plate_track_id": 14,
+      "car_track_id": 8,
+      "immatriculation": "253 أ 59",
+      "confiance": 0.9716,
+      "votes": 7,
+      "sharpness_max": 1429.9,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 51,
+      "timestamp": 2.22,
+      "timestamp_fmt": "00:02",
+      "bbox": [
+        2057,
+        1197,
+        2326,
+        1274
+      ],
+      "should_merge_with": 8
+    },
+    {
+      "plate_track_id": 3,
+      "car_track_id": 5,
+      "immatriculation": "18177 أ 33",
+      "confiance": 0.9742,
+      "votes": 7,
+      "sharpness_max": 89.3,
+      "statut": "safe",
+      "vehicule_trouve": true,
+      "alerte_creee": false,
+      "frame": 54,
+      "timestamp": 2.35,
+      "timestamp_fmt": "00:02",
+      "bbox": [
+        0,
+        934,
+        369,
+        1042
+      ],
+      "should_merge_with": 1
+    },
+    {
+      "plate_track_id": 46,
+      "car_track_id": 8,
+      "immatriculation": "679 أ 52",
+      "confiance": 0.929,
+      "votes": 3,
+      "sharpness_max": 1369.4,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 61,
+      "timestamp": 2.65,
+      "timestamp_fmt": "00:02",
+      "bbox": [
+        2053,
+        1199,
+        2517,
+        1276
+      ],
+      "should_merge_with": 8
+    },
+    {
+      "plate_track_id": 72,
+      "car_track_id": 24,
+      "immatriculation": "34938 1 ﻭ",
+      "confiance": 0.9842,
+      "votes": 2,
+      "sharpness_max": 373.2,
+      "statut": "vole",
+      "vehicule_trouve": true,
+      "alerte_creee": true,
+      "frame": 138,
+      "timestamp": 6,
+      "timestamp_fmt": "00:05",
+      "bbox": [
+        8,
+        770,
+        188,
+        836
+      ],
+      "should_merge_with": 71
+    },
+    {
+      "plate_track_id": 105,
+      "car_track_id": 42,
+      "immatriculation": "13654 ب 8",
+      "confiance": 0.9894,
+      "votes": 7,
+      "sharpness_max": 212.8,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 251,
+      "timestamp": 10.91,
+      "timestamp_fmt": "00:10",
+      "bbox": [
+        0,
+        855,
+        149,
+        932
+      ],
+      "should_merge_with": 103
+    },
+    {
+      "plate_track_id": 110,
+      "car_track_id": 52,
+      "immatriculation": "60084 أ 6",
+      "confiance": 0.9965,
+      "votes": 1,
+      "sharpness_max": 605.7,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 259,
+      "timestamp": 11.26,
+      "timestamp_fmt": "00:11",
+      "bbox": [
+        2254,
+        766,
+        2431,
+        822
+      ]
+    },
+    {
+      "plate_track_id": 111,
+      "car_track_id": 52,
+      "immatriculation": "80084 و 6",
+      "confiance": 0.9729,
+      "votes": 4,
+      "sharpness_max": 485.2,
+      "statut": "inconnu",
+      "vehicule_trouve": false,
+      "alerte_creee": false,
+      "frame": 266,
+      "timestamp": 11.56,
+      "timestamp_fmt": "00:11",
+      "bbox": [
+        2410,
+        769,
+        2560,
+        840
+      ],
+      "should_merge_with": 110
+    }
+  ],
+  "video_id": "6735d287-d5ea-485f-84cd-73cf5759f501",
+  "video_download": "/video/6735d287-d5ea-485f-84cd-73cf5759f501"
+}

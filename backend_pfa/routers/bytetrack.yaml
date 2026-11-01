@@ -1,0 +1,50 @@
+# # ByteTrack configuration
+# tracker_type: bytetrack
+
+# # Seuils de détection pour l'association
+# track_high_thresh: 0.45   # détections fiables → association directe
+# track_low_thresh:  0.10   # détections faibles → association secondaire
+# new_track_thresh:  0.50   # seuil pour créer un nouveau track
+
+# # Buffer en frames avant de supprimer un track perdu
+# track_buffer: 45           # ~1.5s à 30fps
+
+# # Seuil de similarité IoU pour l'association
+# match_thresh: 0.80
+# fuse_score: True
+
+
+
+# ByteTrack configuration - OPTIMISÉ POUR PLAQUES MAROCAINES
+tracker_type: bytetrack
+
+# --- SEUILS DÉTECTION YOLO (ajustés avec CONF_PLATE=0.35) ---
+# Les détections avec confiance > track_high_thresh sont "high score"
+# Les détections entre track_low_thresh et track_high_thresh sont "low score"
+track_high_thresh: 0.55    #  Augmenté pour réduire faux positifs
+track_low_thresh:  0.25    #  Augmenté pour ignorer le bruit
+
+# --- CRÉATION NOUVEAU TRACK ---
+# Une détection doit avoir confiance > new_track_thresh pour créer un nouveau track
+new_track_thresh: 0.52     #  Léger ajustement (+0.02)
+
+# --- PERSISTANCE DES TRACKS ---
+# Nombre de frames avant suppression d'un track perdu
+# 30 frames = ~1 seconde à 30fps (idéal pour plaques temporairement occultées)
+track_buffer: 30           #  Réduit de 45 à 30
+
+# --- ASSOCIATION IoU ---
+# Seuil minimum de similarité pour associer detection → track existant
+match_thresh: 0.75         #  Réduit légèrement (plus tolérant)
+
+# --- FUSION SCORE ---
+# Fusionne score IoU + confiance détection pour l'association
+fuse_score: True           #  Garder True
+
+# --- PARAMÈTRES ADDITIONNELS (non dans ton fichier mais utiles) ---
+# Délai avant activation d'un nouveau track (frames)
+confirm_thresh: 0.60       #  Besoin de 2 détections consécutives
+
+# Distance maximale (pixels) pour associer frame N à N+1
+# Utile pour vitesses élevées
+max_time_lost: 1.0         #  Secondes avant abandon définitif
